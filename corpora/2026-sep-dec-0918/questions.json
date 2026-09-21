@@ -1,0 +1,7143 @@
+{
+  "schema_version": 1,
+  "corpus_id": "2026-sep-dec-0918",
+  "part1": [
+    {
+      "topic": "Travelling",
+      "region": "mainland",
+      "category": "new",
+      "source_number": 1,
+      "id": "p1-001",
+      "source_pages": [
+        5
+      ],
+      "questions": [
+        {
+          "text": "What transport do you often use when travelling?",
+          "source_pages": [
+            5
+          ]
+        },
+        {
+          "text": "Do you often ride a bicycle?",
+          "source_pages": [
+            5
+          ]
+        },
+        {
+          "text": "Do you prefer to sit by the window when travelling?",
+          "source_pages": [
+            5
+          ]
+        },
+        {
+          "text": "Did you have a long journey with your family as a child?",
+          "source_pages": [
+            5
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Rubbish and recycling",
+      "region": "mainland",
+      "category": "new",
+      "source_number": 2,
+      "id": "p1-002",
+      "source_pages": [
+        5,
+        6
+      ],
+      "questions": [
+        {
+          "text": "Did you recycle when you were a kid?",
+          "source_pages": [
+            5
+          ]
+        },
+        {
+          "text": "Is waste sorting common in your country?",
+          "source_pages": [
+            6
+          ]
+        },
+        {
+          "text": "How do you recycle things like paper and plastic?",
+          "source_pages": [
+            6
+          ]
+        },
+        {
+          "text": "What do you do when you see rubbish on the street?",
+          "source_pages": [
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Tiredness",
+      "region": "mainland",
+      "category": "new",
+      "source_number": 3,
+      "id": "p1-003",
+      "source_pages": [
+        6
+      ],
+      "questions": [
+        {
+          "text": "What do you do when you feel tired?",
+          "source_pages": [
+            6
+          ]
+        },
+        {
+          "text": "When would you feel tired?",
+          "source_pages": [
+            6
+          ]
+        },
+        {
+          "text": "Do you often feel tired?",
+          "source_pages": [
+            6
+          ]
+        },
+        {
+          "text": "When you feel tired, do you still go out with your friends?",
+          "source_pages": [
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Shoes",
+      "region": "mainland",
+      "category": "new",
+      "source_number": 4,
+      "id": "p1-004",
+      "source_pages": [
+        6
+      ],
+      "questions": [
+        {
+          "text": "Which do you prefer, fashionable shoes or comfortable shoes?",
+          "source_pages": [
+            6
+          ]
+        },
+        {
+          "text": "How much money do you usually spend on shoes?",
+          "source_pages": [
+            6
+          ]
+        },
+        {
+          "text": "Have you ever bought shoes online?",
+          "source_pages": [
+            6
+          ]
+        },
+        {
+          "text": "Do you like buying shoes? How often?",
+          "source_pages": [
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Politeness",
+      "region": "mainland",
+      "category": "new",
+      "source_number": 5,
+      "id": "p1-005",
+      "source_pages": [
+        6
+      ],
+      "questions": [
+        {
+          "text": "What did you do to show your politeness as a child?",
+          "source_pages": [
+            6
+          ]
+        },
+        {
+          "text": "On what occasions should we be polite?",
+          "source_pages": [
+            6
+          ]
+        },
+        {
+          "text": "Do you think being polite is very important?",
+          "source_pages": [
+            6
+          ]
+        },
+        {
+          "text": "How did you learn to be polite as a child?",
+          "source_pages": [
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Fruit and vegetables",
+      "region": "mainland",
+      "category": "new",
+      "source_number": 6,
+      "id": "p1-006",
+      "source_pages": [
+        6
+      ],
+      "questions": [
+        {
+          "text": "Do people in your country like planting vegetables?",
+          "source_pages": [
+            6
+          ]
+        },
+        {
+          "text": "Were there any kind of fruits and vegetables you disliked as a child?",
+          "source_pages": [
+            6
+          ]
+        },
+        {
+          "text": "What kind of fruits and vegetables do you dislike?",
+          "source_pages": [
+            6
+          ]
+        },
+        {
+          "text": "Where do you usually buy fruit and vegetables?",
+          "source_pages": [
+            6
+          ]
+        },
+        {
+          "text": "How often do you eat fruit and vegetables?",
+          "source_pages": [
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Advertisement",
+      "region": "mainland",
+      "category": "new",
+      "source_number": 7,
+      "id": "p1-007",
+      "source_pages": [
+        6,
+        7
+      ],
+      "questions": [
+        {
+          "text": "Do you often see advertisements when you are on your phone or computer?",
+          "source_pages": [
+            6
+          ]
+        },
+        {
+          "text": "What kind of advertising do you like?",
+          "source_pages": [
+            6
+          ]
+        },
+        {
+          "text": "Do you like advertisements?",
+          "source_pages": [
+            6
+          ]
+        },
+        {
+          "text": "Do you see a lot of advertising on trains or other transport?",
+          "source_pages": [
+            6
+          ]
+        },
+        {
+          "text": "Is there an advertisement that made an impression on you when you were a child?",
+          "source_pages": [
+            6
+          ]
+        },
+        {
+          "text": "Have you ever bought something because of an advertisement?",
+          "source_pages": [
+            7
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Paper",
+      "region": "mainland",
+      "category": "new",
+      "source_number": 8,
+      "id": "p1-008",
+      "source_pages": [
+        7
+      ],
+      "questions": [
+        {
+          "text": "Do you carry paper and pens with you when you go out?",
+          "source_pages": [
+            7
+          ]
+        },
+        {
+          "text": "Do people still keep handwritten letters today?",
+          "source_pages": [
+            7
+          ]
+        },
+        {
+          "text": "Do you still write physical letters?",
+          "source_pages": [
+            7
+          ]
+        },
+        {
+          "text": "What did you like to do with paper as a child?",
+          "source_pages": [
+            7
+          ]
+        },
+        {
+          "text": "Have you made any crafts with paper?",
+          "source_pages": [
+            7
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Secondary school",
+      "region": "mainland",
+      "category": "new",
+      "source_number": 9,
+      "id": "p1-009",
+      "source_pages": [
+        7
+      ],
+      "questions": [
+        {
+          "text": "Is there anything you miss about your secondary school?",
+          "source_pages": [
+            7
+          ]
+        },
+        {
+          "text": "What was your favourite subject at secondary school?",
+          "source_pages": [
+            7
+          ]
+        },
+        {
+          "text": "Were there any subjects that you found difficult at secondary school?",
+          "source_pages": [
+            7
+          ]
+        },
+        {
+          "text": "Do you remember your first day at secondary school?",
+          "source_pages": [
+            7
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Name",
+      "region": "mainland",
+      "category": "new",
+      "source_number": 10,
+      "id": "p1-010",
+      "source_pages": [
+        7
+      ],
+      "questions": [
+        {
+          "text": "Do you often forget people's names?",
+          "source_pages": [
+            7
+          ]
+        },
+        {
+          "text": "How do you feel when people can't remember your name?",
+          "source_pages": [
+            7
+          ]
+        },
+        {
+          "text": "How do you remember people's names?",
+          "source_pages": [
+            7
+          ]
+        },
+        {
+          "text": "Is it easy for you to remember people's names?",
+          "source_pages": [
+            7
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Opportunities",
+      "region": "mainland",
+      "category": "new",
+      "source_number": 11,
+      "id": "p1-011",
+      "source_pages": [
+        7
+      ],
+      "questions": [
+        {
+          "text": "Do you often get new opportunities?",
+          "source_pages": [
+            7
+          ]
+        },
+        {
+          "text": "Do you like taking on new opportunities?",
+          "source_pages": [
+            7
+          ]
+        },
+        {
+          "text": "Should people try as many different things as they can?",
+          "source_pages": [
+            7
+          ]
+        },
+        {
+          "text": "Did you have any opportunities to take part in new activities as a child?",
+          "source_pages": [
+            7
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Music",
+      "region": "mainland",
+      "category": "retained",
+      "source_number": 1,
+      "id": "p1-012",
+      "source_pages": [
+        20
+      ],
+      "questions": [
+        {
+          "text": "Do you prefer sad or happy music?",
+          "source_pages": [
+            20
+          ]
+        },
+        {
+          "text": "Does happy music make you feel more excited?",
+          "source_pages": [
+            20
+          ]
+        },
+        {
+          "text": "Have you taken any music classes?",
+          "source_pages": [
+            20
+          ]
+        },
+        {
+          "text": "Do you listen to music while doing other things?",
+          "source_pages": [
+            20
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Teachers",
+      "region": "mainland",
+      "category": "retained",
+      "source_number": 2,
+      "id": "p1-013",
+      "source_pages": [
+        20,
+        21
+      ],
+      "questions": [
+        {
+          "text": "Do you have a favorite teacher?",
+          "source_pages": [
+            21
+          ]
+        },
+        {
+          "text": "Do you want to be a teacher in the future?",
+          "source_pages": [
+            21
+          ]
+        },
+        {
+          "text": "Do you have a teacher from your past that you still remember?",
+          "source_pages": [
+            21
+          ]
+        },
+        {
+          "text": "Are you still in touch with your primary school teachers?",
+          "source_pages": [
+            21
+          ]
+        },
+        {
+          "text": "In what way has your favourite teacher helped you?",
+          "source_pages": [
+            21
+          ]
+        },
+        {
+          "text": "Do you like your primary school teachers more than your high school teachers?",
+          "source_pages": [
+            21
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Social media",
+      "region": "mainland",
+      "category": "retained",
+      "source_number": 3,
+      "id": "p1-014",
+      "source_pages": [
+        21
+      ],
+      "questions": [
+        {
+          "text": "Have you ever posted anything on social media?",
+          "source_pages": [
+            21
+          ]
+        },
+        {
+          "text": "When did you start using social media?",
+          "source_pages": [
+            21
+          ]
+        },
+        {
+          "text": "Do you think you spend too much time on social media?",
+          "source_pages": [
+            21
+          ]
+        },
+        {
+          "text": "Do your friends use social media?",
+          "source_pages": [
+            21
+          ]
+        },
+        {
+          "text": "What do people often do on social media?",
+          "source_pages": [
+            21
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Tidiness",
+      "region": "mainland",
+      "category": "retained",
+      "source_number": 4,
+      "id": "p1-015",
+      "source_pages": [
+        21
+      ],
+      "questions": [
+        {
+          "text": "Do you like to keep things tidy?",
+          "source_pages": [
+            21
+          ]
+        },
+        {
+          "text": "Did you keep your room tidy as a child?",
+          "source_pages": [
+            21
+          ]
+        },
+        {
+          "text": "How do you keep your work or study space tidy?",
+          "source_pages": [
+            21
+          ]
+        },
+        {
+          "text": "Do you think that it is necessary to be tidy?",
+          "source_pages": [
+            21
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Websites",
+      "region": "mainland",
+      "category": "retained",
+      "source_number": 5,
+      "id": "p1-016",
+      "source_pages": [
+        21
+      ],
+      "questions": [
+        {
+          "text": "What kinds of websites do you often visit?",
+          "source_pages": [
+            21
+          ]
+        },
+        {
+          "text": "What is your favourite website?",
+          "source_pages": [
+            21
+          ]
+        },
+        {
+          "text": "Are there any changes to the websites you often visit?",
+          "source_pages": [
+            21
+          ]
+        },
+        {
+          "text": "What kinds of websites are popular in your country?",
+          "source_pages": [
+            21
+          ]
+        },
+        {
+          "text": "Do you prefer getting information from websites or books?",
+          "source_pages": [
+            21
+          ]
+        },
+        {
+          "text": "Would you like to have your own website?",
+          "source_pages": [
+            21
+          ]
+        },
+        {
+          "text": "What have you learned from websites that help with your life or studies?",
+          "source_pages": [
+            21
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Watch",
+      "region": "mainland",
+      "category": "retained",
+      "source_number": 6,
+      "id": "p1-017",
+      "source_pages": [
+        21
+      ],
+      "questions": [
+        {
+          "text": "Do you wear a watch?",
+          "source_pages": [
+            21
+          ]
+        },
+        {
+          "text": "Have you ever got a watch as a gift?",
+          "source_pages": [
+            21
+          ]
+        },
+        {
+          "text": "Why do some people wear expensive watches?",
+          "source_pages": [
+            21
+          ]
+        },
+        {
+          "text": "Do you think it is important to wear a watch? Why?",
+          "source_pages": [
+            21
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Shopping",
+      "region": "mainland",
+      "category": "retained",
+      "source_number": 7,
+      "id": "p1-018",
+      "source_pages": [
+        22
+      ],
+      "questions": [
+        {
+          "text": "Do you like shopping?",
+          "source_pages": [
+            22
+          ]
+        },
+        {
+          "text": "How often do you go shopping?",
+          "source_pages": [
+            22
+          ]
+        },
+        {
+          "text": "Do you prefer online shopping or in-store shopping?",
+          "source_pages": [
+            22
+          ]
+        },
+        {
+          "text": "Have you ever returned anything you bought online?",
+          "source_pages": [
+            22
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Cars",
+      "region": "mainland",
+      "category": "retained",
+      "source_number": 8,
+      "id": "p1-019",
+      "source_pages": [
+        22
+      ],
+      "questions": [
+        {
+          "text": "Did you enjoy traveling by car when you were a kid?",
+          "source_pages": [
+            22
+          ]
+        },
+        {
+          "text": "What types of cars do you like?",
+          "source_pages": [
+            22
+          ]
+        },
+        {
+          "text": "Do you prefer to be a driver or a passenger?",
+          "source_pages": [
+            22
+          ]
+        },
+        {
+          "text": "What do you usually do when there is a traffic jam?",
+          "source_pages": [
+            22
+          ]
+        },
+        {
+          "text": "Do you think car colours are important?",
+          "source_pages": [
+            22
+          ]
+        },
+        {
+          "text": "Will you buy an expensive car in the future?",
+          "source_pages": [
+            22
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Public gardens and parks",
+      "region": "mainland",
+      "category": "retained",
+      "source_number": 9,
+      "id": "p1-020",
+      "source_pages": [
+        22
+      ],
+      "questions": [
+        {
+          "text": "Did you like going to parks as a child?",
+          "source_pages": [
+            22
+          ]
+        },
+        {
+          "text": "Do you still like going to parks now?",
+          "source_pages": [
+            22
+          ]
+        },
+        {
+          "text": "Would you like to see more parks in your city?",
+          "source_pages": [
+            22
+          ]
+        },
+        {
+          "text": "Are there any parks you want to go to in the future?",
+          "source_pages": [
+            22
+          ]
+        },
+        {
+          "text": "Would you prefer to play in a personal garden or public garden？",
+          "source_pages": [
+            22
+          ]
+        },
+        {
+          "text": "How are the parks today different from those you visited as a kid?",
+          "source_pages": [
+            22
+          ]
+        },
+        {
+          "text": "What do you like to do when visiting a park？",
+          "source_pages": [
+            22
+          ]
+        },
+        {
+          "text": "Would you like to play in a public garden or park？",
+          "source_pages": [
+            22
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Science",
+      "region": "mainland",
+      "category": "retained",
+      "source_number": 10,
+      "id": "p1-021",
+      "source_pages": [
+        22
+      ],
+      "questions": [
+        {
+          "text": "Do you like science?",
+          "source_pages": [
+            22
+          ]
+        },
+        {
+          "text": "When did you start to learn about science?",
+          "source_pages": [
+            22
+          ]
+        },
+        {
+          "text": "Which science subject is interesting to you?",
+          "source_pages": [
+            22
+          ]
+        },
+        {
+          "text": "What kinds of interesting things have you done with science?",
+          "source_pages": [
+            22
+          ]
+        },
+        {
+          "text": "Do you like watching science TV programs?",
+          "source_pages": [
+            22
+          ]
+        },
+        {
+          "text": "Do Chinese people often visit science museums?",
+          "source_pages": [
+            22
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Mirrors",
+      "region": "mainland",
+      "category": "retained",
+      "source_number": 11,
+      "id": "p1-022",
+      "source_pages": [
+        22,
+        23
+      ],
+      "questions": [
+        {
+          "text": "Do you like looking at yourself in the mirror? How often?",
+          "source_pages": [
+            22
+          ]
+        },
+        {
+          "text": "Have you ever bought mirrors?",
+          "source_pages": [
+            23
+          ]
+        },
+        {
+          "text": "Do you usually take a mirror with you？",
+          "source_pages": [
+            23
+          ]
+        },
+        {
+          "text": "Would you use mirrors to decorate your room?",
+          "source_pages": [
+            23
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Outer space and stars",
+      "region": "mainland",
+      "category": "retained",
+      "source_number": 12,
+      "id": "p1-023",
+      "source_pages": [
+        23
+      ],
+      "questions": [
+        {
+          "text": "Have you ever learnt about outer space and stars?",
+          "source_pages": [
+            23
+          ]
+        },
+        {
+          "text": "Do you like science fiction movies? Why?",
+          "source_pages": [
+            23
+          ]
+        },
+        {
+          "text": "Do you want to know more about outer space?",
+          "source_pages": [
+            23
+          ]
+        },
+        {
+          "text": "Do you want to go into outer space in the future?",
+          "source_pages": [
+            23
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Singing",
+      "region": "mainland",
+      "category": "retained",
+      "source_number": 13,
+      "id": "p1-024",
+      "source_pages": [
+        23
+      ],
+      "questions": [
+        {
+          "text": "Do you like singing? Why?",
+          "source_pages": [
+            23
+          ]
+        },
+        {
+          "text": "Have you ever learnt how to sing?",
+          "source_pages": [
+            23
+          ]
+        },
+        {
+          "text": "Who do you want to sing for?",
+          "source_pages": [
+            23
+          ]
+        },
+        {
+          "text": "Do you think singing can bring happiness to people?",
+          "source_pages": [
+            23
+          ]
+        },
+        {
+          "text": "Do you like listening to others singing?",
+          "source_pages": [
+            23
+          ]
+        },
+        {
+          "text": "Have you ever taken a singing class?",
+          "source_pages": [
+            23
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Clothing",
+      "region": "mainland",
+      "category": "retained",
+      "source_number": 14,
+      "id": "p1-025",
+      "source_pages": [
+        23
+      ],
+      "questions": [
+        {
+          "text": "What kind of clothes do you like to wear?",
+          "source_pages": [
+            23
+          ]
+        },
+        {
+          "text": "Do you prefer to wear comfortable and casual clothes or smart clothes?",
+          "source_pages": [
+            23
+          ]
+        },
+        {
+          "text": "Do you like wearing T-shirts?",
+          "source_pages": [
+            23
+          ]
+        },
+        {
+          "text": "Do you spend a lot of time choosing clothes?",
+          "source_pages": [
+            23
+          ]
+        },
+        {
+          "text": "Do you wear different styles of clothes on weekdays and weekends?",
+          "source_pages": [
+            23
+          ]
+        },
+        {
+          "text": "What colour clothes do you like?",
+          "source_pages": [
+            23
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Jokes & Comedies",
+      "region": "mainland",
+      "category": "retained",
+      "source_number": 15,
+      "id": "p1-026",
+      "source_pages": [
+        23
+      ],
+      "questions": [
+        {
+          "text": "Are you good at telling jokes?",
+          "source_pages": [
+            23
+          ]
+        },
+        {
+          "text": "Do your friends like to tell jokes?",
+          "source_pages": [
+            23
+          ]
+        },
+        {
+          "text": "Do you like to watch comedies?",
+          "source_pages": [
+            23
+          ]
+        },
+        {
+          "text": "Have you ever watched a live show?",
+          "source_pages": [
+            23
+          ]
+        },
+        {
+          "text": "Are comedy shows popular in your country?",
+          "source_pages": [
+            23
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Headphones",
+      "region": "mainland",
+      "category": "retained",
+      "source_number": 16,
+      "id": "p1-027",
+      "source_pages": [
+        23,
+        24
+      ],
+      "questions": [
+        {
+          "text": "Do you use headphones?",
+          "source_pages": [
+            23
+          ]
+        },
+        {
+          "text": "What type of headphones do you use?",
+          "source_pages": [
+            24
+          ]
+        },
+        {
+          "text": "When would you use headphones?",
+          "source_pages": [
+            24
+          ]
+        },
+        {
+          "text": "In what conditions would you not use headphones?",
+          "source_pages": [
+            24
+          ]
+        },
+        {
+          "text": "Is wearing headphones comfortable?",
+          "source_pages": [
+            24
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Work or studies",
+      "region": "mainland",
+      "category": "evergreen",
+      "source_number": null,
+      "id": "p1-028",
+      "source_pages": [
+        24
+      ],
+      "questions": [
+        {
+          "text": "What subjects are you studying?",
+          "source_pages": [
+            24
+          ]
+        },
+        {
+          "text": "Do you like your subject?",
+          "source_pages": [
+            24
+          ]
+        },
+        {
+          "text": "Why did you choose to study that subject?",
+          "source_pages": [
+            24
+          ]
+        },
+        {
+          "text": "Do you think that your subject is popular in your country?",
+          "source_pages": [
+            24
+          ]
+        },
+        {
+          "text": "Do you have any plans for your studies in the next five years?",
+          "source_pages": [
+            24
+          ]
+        },
+        {
+          "text": "What are the benefits of being your age?",
+          "source_pages": [
+            24
+          ]
+        },
+        {
+          "text": "Do you want to change your major?",
+          "source_pages": [
+            24
+          ]
+        },
+        {
+          "text": "Do you prefer to study in the mornings or in the afternoons?",
+          "source_pages": [
+            24
+          ]
+        },
+        {
+          "text": "How much time do you spend on your studies each week?",
+          "source_pages": [
+            24
+          ]
+        },
+        {
+          "text": "Are you looking forward to working?",
+          "source_pages": [
+            24
+          ]
+        },
+        {
+          "text": "What technology do you use when you study?",
+          "source_pages": [
+            24
+          ]
+        },
+        {
+          "text": "What changes would you like to see in your school?",
+          "source_pages": [
+            24
+          ]
+        },
+        {
+          "text": "What work do you do?",
+          "source_pages": [
+            24
+          ]
+        },
+        {
+          "text": "Why did you choose to do that type of work (or that job)?",
+          "source_pages": [
+            24
+          ]
+        },
+        {
+          "text": "Do you like your job?",
+          "source_pages": [
+            24
+          ]
+        },
+        {
+          "text": "What requirements did you need to meet to get your current job?",
+          "source_pages": [
+            24
+          ]
+        },
+        {
+          "text": "Do you have any plans for your work in the next five years?",
+          "source_pages": [
+            24
+          ]
+        },
+        {
+          "text": "What do you think is the most important at the moment?",
+          "source_pages": [
+            24
+          ]
+        },
+        {
+          "text": "Do you want to change to another job?",
+          "source_pages": [
+            24
+          ]
+        },
+        {
+          "text": "Do you miss being a student?",
+          "source_pages": [
+            24
+          ]
+        },
+        {
+          "text": "What technology do you use at work?",
+          "source_pages": [
+            24
+          ]
+        },
+        {
+          "text": "Who helps you the most? And how?",
+          "source_pages": [
+            24
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Home/accommodation",
+      "region": "mainland",
+      "category": "evergreen",
+      "source_number": null,
+      "id": "p1-029",
+      "source_pages": [
+        24,
+        25
+      ],
+      "questions": [
+        {
+          "text": "What kind of house or apartment do you want to live in in the future?",
+          "source_pages": [
+            24
+          ]
+        },
+        {
+          "text": "Are the transport facilities to your home very good?",
+          "source_pages": [
+            24
+          ]
+        },
+        {
+          "text": "Do you prefer living in a house or an apartment?",
+          "source_pages": [
+            24
+          ]
+        },
+        {
+          "text": "Please describe the room you live in.",
+          "source_pages": [
+            25
+          ]
+        },
+        {
+          "text": "What part of your home do you like the most?",
+          "source_pages": [
+            25
+          ]
+        },
+        {
+          "text": "How long have you lived there?",
+          "source_pages": [
+            25
+          ]
+        },
+        {
+          "text": "Do you plan to live there for a long time?",
+          "source_pages": [
+            25
+          ]
+        },
+        {
+          "text": "What’s the difference between where you are living now and where you have lived in the past?",
+          "source_pages": [
+            25
+          ]
+        },
+        {
+          "text": "Can you describe the place where you live?",
+          "source_pages": [
+            25
+          ]
+        },
+        {
+          "text": "What room does your family spend most of the time in?",
+          "source_pages": [
+            25
+          ]
+        },
+        {
+          "text": "What's your favorite room in your apartment or house？",
+          "source_pages": [
+            25
+          ]
+        },
+        {
+          "text": "What makes you feel pleasant in your home？",
+          "source_pages": [
+            25
+          ]
+        },
+        {
+          "text": "Do you think it is important to live in a comfortable environment？",
+          "source_pages": [
+            25
+          ]
+        },
+        {
+          "text": "Do you live in an apartment or a house?",
+          "source_pages": [
+            25
+          ]
+        },
+        {
+          "text": "Who do you live with?",
+          "source_pages": [
+            25
+          ]
+        },
+        {
+          "text": "What do you usually do in your apartment?",
+          "source_pages": [
+            25
+          ]
+        },
+        {
+          "text": "What kinds of accommodation do you live in?",
+          "source_pages": [
+            25
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Hometown",
+      "region": "mainland",
+      "category": "evergreen",
+      "source_number": null,
+      "id": "p1-030",
+      "source_pages": [
+        25
+      ],
+      "questions": [
+        {
+          "text": "Where is your hometown?",
+          "source_pages": [
+            25
+          ]
+        },
+        {
+          "text": "Is that a big city or a small place?",
+          "source_pages": [
+            25
+          ]
+        },
+        {
+          "text": "Please describe your hometown a little.",
+          "source_pages": [
+            25
+          ]
+        },
+        {
+          "text": "How long have you been living there?",
+          "source_pages": [
+            25
+          ]
+        },
+        {
+          "text": "Do you think you will continue living there for a long time?",
+          "source_pages": [
+            25
+          ]
+        },
+        {
+          "text": "Do you like your hometown?",
+          "source_pages": [
+            25
+          ]
+        },
+        {
+          "text": "Do you like living there?",
+          "source_pages": [
+            25
+          ]
+        },
+        {
+          "text": "What do you like (most) about your hometown?",
+          "source_pages": [
+            25
+          ]
+        },
+        {
+          "text": "Is there anything you dislike about it?",
+          "source_pages": [
+            25
+          ]
+        },
+        {
+          "text": "What's your hometown famous for？",
+          "source_pages": [
+            25
+          ]
+        },
+        {
+          "text": "Did you learn about the history of your hometown at school？",
+          "source_pages": [
+            25
+          ]
+        },
+        {
+          "text": "Are there many young people in your hometown?",
+          "source_pages": [
+            25
+          ]
+        },
+        {
+          "text": "Is your hometown a good place for young people to pursue their careers?",
+          "source_pages": [
+            25
+          ]
+        },
+        {
+          "text": "Have you learned anything about the history of your hometown?",
+          "source_pages": [
+            25
+          ]
+        },
+        {
+          "text": "Did you learn about the culture of your hometown in your childhood?",
+          "source_pages": [
+            25
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "The area you live in",
+      "region": "mainland",
+      "category": "evergreen",
+      "source_number": null,
+      "id": "p1-031",
+      "source_pages": [
+        25,
+        26
+      ],
+      "questions": [
+        {
+          "text": "Do you like the area that you live in?",
+          "source_pages": [
+            26
+          ]
+        },
+        {
+          "text": "Where do you like to go in that area?",
+          "source_pages": [
+            26
+          ]
+        },
+        {
+          "text": "Do you know any famous people in your area?",
+          "source_pages": [
+            26
+          ]
+        },
+        {
+          "text": "What are some changes in the area recently?",
+          "source_pages": [
+            26
+          ]
+        },
+        {
+          "text": "Do you know any of your neighbors?",
+          "source_pages": [
+            26
+          ]
+        },
+        {
+          "text": "Are the people in your neighborhood nice and friendly?",
+          "source_pages": [
+            26
+          ]
+        },
+        {
+          "text": "Do you live in a noisy or a quiet area?",
+          "source_pages": [
+            26
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "The city you live in",
+      "region": "mainland",
+      "category": "evergreen",
+      "source_number": null,
+      "id": "p1-032",
+      "source_pages": [
+        26
+      ],
+      "questions": [
+        {
+          "text": "What city do you live in?",
+          "source_pages": [
+            26
+          ]
+        },
+        {
+          "text": "Do you like this city? Why?",
+          "source_pages": [
+            26
+          ]
+        },
+        {
+          "text": "How long have you lived in this city?",
+          "source_pages": [
+            26
+          ]
+        },
+        {
+          "text": "Are there big changes in this city?",
+          "source_pages": [
+            26
+          ]
+        },
+        {
+          "text": "Is this city your permanent residence?",
+          "source_pages": [
+            26
+          ]
+        },
+        {
+          "text": "Are there people of different ages living in this city?",
+          "source_pages": [
+            26
+          ]
+        },
+        {
+          "text": "Are the people friendly in the city?",
+          "source_pages": [
+            26
+          ]
+        },
+        {
+          "text": "Is the city friendly to children and old people?",
+          "source_pages": [
+            26
+          ]
+        },
+        {
+          "text": "Do you often see your neighbors?",
+          "source_pages": [
+            26
+          ]
+        },
+        {
+          "text": "What's the weather like where you live?",
+          "source_pages": [
+            26
+          ]
+        },
+        {
+          "text": "Would you recommend your city to others?",
+          "source_pages": [
+            26
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Lost and found",
+      "region": "non_mainland",
+      "category": "new",
+      "source_number": 1,
+      "id": "p1-033",
+      "source_pages": [
+        40
+      ],
+      "questions": [
+        {
+          "text": "Have you ever lost your keys?",
+          "source_pages": [
+            40
+          ]
+        },
+        {
+          "text": "Will you post on social media if you lose your item?",
+          "source_pages": [
+            40
+          ]
+        },
+        {
+          "text": "Have you ever lost things?",
+          "source_pages": [
+            40
+          ]
+        },
+        {
+          "text": "Do you report to the police when finding something lost by others? Why?",
+          "source_pages": [
+            40
+          ]
+        },
+        {
+          "text": "What will you do if you find something lost by others?",
+          "source_pages": [
+            40
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Computers/tablets",
+      "region": "non_mainland",
+      "category": "new",
+      "source_number": 2,
+      "id": "p1-034",
+      "source_pages": [
+        40
+      ],
+      "questions": [
+        {
+          "text": "Would you like to use a computer or tablet?",
+          "source_pages": [
+            40
+          ]
+        },
+        {
+          "text": "In what conditions would you use a computer or tablet?",
+          "source_pages": [
+            40
+          ]
+        },
+        {
+          "text": "When was the first time you used a computer or tablet?",
+          "source_pages": [
+            40
+          ]
+        },
+        {
+          "text": "What would your life be like without computers or tablets?",
+          "source_pages": [
+            40
+          ]
+        },
+        {
+          "text": "In what conditions would it be difficult for you to use a computer or tablet?",
+          "source_pages": [
+            40
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Collecting things",
+      "region": "non_mainland",
+      "category": "new",
+      "source_number": 3,
+      "id": "p1-035",
+      "source_pages": [
+        40
+      ],
+      "questions": [
+        {
+          "text": "Do you collect things?",
+          "source_pages": [
+            40
+          ]
+        },
+        {
+          "text": "Where do you usually keep things you need?",
+          "source_pages": [
+            40
+          ]
+        },
+        {
+          "text": "Would you keep old things for a long time? Why?",
+          "source_pages": [
+            40
+          ]
+        },
+        {
+          "text": "Are there any things you have kept from your childhood?",
+          "source_pages": [
+            40
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Street market",
+      "region": "non_mainland",
+      "category": "new",
+      "source_number": 4,
+      "id": "p1-036",
+      "source_pages": [
+        40
+      ],
+      "questions": [
+        {
+          "text": "Are there many street markets in China?",
+          "source_pages": [
+            40
+          ]
+        },
+        {
+          "text": "When was the last time you went to a street market?",
+          "source_pages": [
+            40
+          ]
+        },
+        {
+          "text": "Do you prefer to go shopping in the shopping mall or on the street market?",
+          "source_pages": [
+            40
+          ]
+        },
+        {
+          "text": "What do people usually buy on the street market?",
+          "source_pages": [
+            40
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Feeling bored",
+      "region": "non_mainland",
+      "category": "new",
+      "source_number": 5,
+      "id": "p1-037",
+      "source_pages": [
+        40
+      ],
+      "questions": [
+        {
+          "text": "Do you think childhood is boring or adulthood is boring?",
+          "source_pages": [
+            40
+          ]
+        },
+        {
+          "text": "What do you do when you feel bored?",
+          "source_pages": [
+            40
+          ]
+        },
+        {
+          "text": "When would you feel bored?",
+          "source_pages": [
+            40
+          ]
+        },
+        {
+          "text": "Do you often feel bored?",
+          "source_pages": [
+            40
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Friends",
+      "region": "non_mainland",
+      "category": "new",
+      "source_number": 6,
+      "id": "p1-038",
+      "source_pages": [
+        40,
+        41
+      ],
+      "questions": [
+        {
+          "text": "Would you invite friends to your home?",
+          "source_pages": [
+            40
+          ]
+        },
+        {
+          "text": "Do you prefer to spend time with one friend or with a group of friends?",
+          "source_pages": [
+            40
+          ]
+        },
+        {
+          "text": "Do you have a friend you have known for a long time?",
+          "source_pages": [
+            41
+          ]
+        },
+        {
+          "text": "What do you usually do with your friends?",
+          "source_pages": [
+            41
+          ]
+        },
+        {
+          "text": "Where do you often meet each other?",
+          "source_pages": [
+            41
+          ]
+        },
+        {
+          "text": "Do you often go out with your friends?",
+          "source_pages": [
+            41
+          ]
+        },
+        {
+          "text": "How important are friends to you?",
+          "source_pages": [
+            41
+          ]
+        },
+        {
+          "text": "Why are some places suitable for meeting while others are not?",
+          "source_pages": [
+            41
+          ]
+        },
+        {
+          "text": "Is there a difference between where you meet friends now and where you used to meet them in the past?",
+          "source_pages": [
+            41
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Dream and ambition",
+      "region": "non_mainland",
+      "category": "retained",
+      "source_number": 1,
+      "id": "p1-039",
+      "source_pages": [
+        45
+      ],
+      "questions": [
+        {
+          "text": "What was your childhood dream?",
+          "source_pages": [
+            45
+          ]
+        },
+        {
+          "text": "Are you the kind of person who sticks to dreams?",
+          "source_pages": [
+            45
+          ]
+        },
+        {
+          "text": "What is your dream job?",
+          "source_pages": [
+            45
+          ]
+        },
+        {
+          "text": "Do you think you are an ambitious person?",
+          "source_pages": [
+            45
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "History",
+      "region": "non_mainland",
+      "category": "retained",
+      "source_number": 2,
+      "id": "p1-040",
+      "source_pages": [
+        45
+      ],
+      "questions": [
+        {
+          "text": "Have you ever been to historical museums?",
+          "source_pages": [
+            45
+          ]
+        },
+        {
+          "text": "Do you like history?",
+          "source_pages": [
+            45
+          ]
+        },
+        {
+          "text": "When was the last time you read about history?",
+          "source_pages": [
+            45
+          ]
+        },
+        {
+          "text": "Did you like history when you were young?",
+          "source_pages": [
+            45
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Films/cinemas",
+      "region": "non_mainland",
+      "category": "retained",
+      "source_number": 3,
+      "id": "p1-041",
+      "source_pages": [
+        45
+      ],
+      "questions": [
+        {
+          "text": "What films do you like?",
+          "source_pages": [
+            45
+          ]
+        },
+        {
+          "text": "Did you often watch films when you were a child?",
+          "source_pages": [
+            45
+          ]
+        },
+        {
+          "text": "Did you ever go to the cinema alone as a child?",
+          "source_pages": [
+            45
+          ]
+        },
+        {
+          "text": "Do you often go to the cinema with your friends?",
+          "source_pages": [
+            45
+          ]
+        },
+        {
+          "text": "Do you think going to the cinema is a good way to spend time with friends?",
+          "source_pages": [
+            45
+          ]
+        },
+        {
+          "text": "How often do you watch films?",
+          "source_pages": [
+            45
+          ]
+        },
+        {
+          "text": "Do you prefer to watch films at home or in the cinema?",
+          "source_pages": [
+            45
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Old buildings",
+      "region": "non_mainland",
+      "category": "retained",
+      "source_number": 4,
+      "id": "p1-042",
+      "source_pages": [
+        45
+      ],
+      "questions": [
+        {
+          "text": "Have you ever seen old buildings in the city？",
+          "source_pages": [
+            45
+          ]
+        },
+        {
+          "text": "Do you think we should preserve old buildings in cities？",
+          "source_pages": [
+            45
+          ]
+        },
+        {
+          "text": "Do you prefer living in an old building or a modern house？",
+          "source_pages": [
+            45
+          ]
+        },
+        {
+          "text": "Are there any old buildings you want to see in the future? Why?",
+          "source_pages": [
+            45
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Evening time",
+      "region": "non_mainland",
+      "category": "retained",
+      "source_number": 5,
+      "id": "p1-043",
+      "source_pages": [
+        45,
+        46
+      ],
+      "questions": [
+        {
+          "text": "Do you like the morning or evening?",
+          "source_pages": [
+            46
+          ]
+        },
+        {
+          "text": "What do you usually do in the evening？",
+          "source_pages": [
+            46
+          ]
+        },
+        {
+          "text": "What did you do in the evening when you were little? Why?",
+          "source_pages": [
+            46
+          ]
+        },
+        {
+          "text": "Are there any differences between what you do in the evening now and what you did in the past?",
+          "source_pages": [
+            46
+          ]
+        },
+        {
+          "text": "Do you spend your evenings doing the same things on both weekends and weekdays? Why?",
+          "source_pages": [
+            46
+          ]
+        },
+        {
+          "text": "What do you hate doing in the evening?",
+          "source_pages": [
+            46
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Morning routines",
+      "region": "non_mainland",
+      "category": "retained",
+      "source_number": 6,
+      "id": "p1-044",
+      "source_pages": [
+        46
+      ],
+      "questions": [
+        {
+          "text": "What do you do right after getting up in the morning?",
+          "source_pages": [
+            46
+          ]
+        },
+        {
+          "text": "Is breakfast important?",
+          "source_pages": [
+            46
+          ]
+        },
+        {
+          "text": "What is your morning routine?",
+          "source_pages": [
+            46
+          ]
+        },
+        {
+          "text": "Do you like to get up early in the morning?",
+          "source_pages": [
+            46
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Sports programs",
+      "region": "non_mainland",
+      "category": "retained",
+      "source_number": 7,
+      "id": "p1-045",
+      "source_pages": [
+        46
+      ],
+      "questions": [
+        {
+          "text": "Do you like watching sports programs on TV?",
+          "source_pages": [
+            46
+          ]
+        },
+        {
+          "text": "Do you like to watch live sports games?",
+          "source_pages": [
+            46
+          ]
+        },
+        {
+          "text": "Who do you like to watch sports games with?",
+          "source_pages": [
+            46
+          ]
+        },
+        {
+          "text": "What kinds of games do you expect to watch in the future?",
+          "source_pages": [
+            46
+          ]
+        },
+        {
+          "text": "Do you prefer to watch sports games alone or with a group of friends?",
+          "source_pages": [
+            46
+          ]
+        },
+        {
+          "text": "Have you ever watched a sports game in a stadium?",
+          "source_pages": [
+            46
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Art",
+      "region": "non_mainland",
+      "category": "retained",
+      "source_number": 8,
+      "id": "p1-046",
+      "source_pages": [
+        46
+      ],
+      "questions": [
+        {
+          "text": "Do you like art?",
+          "source_pages": [
+            46
+          ]
+        },
+        {
+          "text": "Do you like visiting art galleries?",
+          "source_pages": [
+            46
+          ]
+        },
+        {
+          "text": "Do you want to be an artist?",
+          "source_pages": [
+            46
+          ]
+        },
+        {
+          "text": "Do you like modern art or traditional art?",
+          "source_pages": [
+            46
+          ]
+        }
+      ]
+    }
+  ],
+  "part2_part3": [
+    {
+      "topic": "对结果开心的重要决定",
+      "region": "mainland",
+      "category": "new",
+      "source_number": 1,
+      "id": "p2-001",
+      "source_pages": [
+        7,
+        8
+      ],
+      "part2": {
+        "prompt": "Describe a time you made an important decision and were happy with the result",
+        "cue_lines": [
+          "What the decision was",
+          "Why you made the decision",
+          "How easy it was for you to make the decision",
+          "And explain why you were happy with the result"
+        ],
+        "text": "Describe a time you made an important decision and were happy with the result\nYou should say:\nWhat the decision was\nWhy you made the decision\nHow easy it was for you to make the decision\nAnd explain why you were happy with the result",
+        "source_pages": [
+          7,
+          8
+        ]
+      },
+      "part3": {
+        "questions": [
+          {
+            "text": "Which is better, to make a decision quickly or slowly?",
+            "source_pages": [
+              8
+            ]
+          },
+          {
+            "text": "Do you think most people's decisions are made in their 20s?",
+            "source_pages": [
+              8
+            ]
+          },
+          {
+            "text": "What if people in a group have different opinions on a decision?",
+            "source_pages": [
+              8
+            ]
+          },
+          {
+            "text": "What little decisions do people make every day?",
+            "source_pages": [
+              8
+            ]
+          },
+          {
+            "text": "Do you think it is a good idea to make a small decision every day?",
+            "source_pages": [
+              8
+            ]
+          },
+          {
+            "text": "How can we tell the difference between an important and an easy decision?",
+            "source_pages": [
+              8
+            ]
+          }
+        ],
+        "source_pages": [
+          8
+        ],
+        "link_basis": "Immediately follows this cue card in the supplied PDF"
+      },
+      "source_notes": [],
+      "review_flags": [],
+      "automatic_full_mock_selection": true
+    },
+    {
+      "topic": "做困难事情并成功的人",
+      "region": "mainland",
+      "category": "new",
+      "source_number": 2,
+      "id": "p2-002",
+      "source_pages": [
+        8
+      ],
+      "part2": {
+        "prompt": "Describe a person you know who did something difficult and was successful",
+        "cue_lines": [
+          "Who this person is",
+          "What difficult thing this person did",
+          "Why this person was successful",
+          "And explain how you feel about this person"
+        ],
+        "text": "Describe a person you know who did something difficult and was successful\nYou should say:\nWho this person is\nWhat difficult thing this person did\nWhy this person was successful\nAnd explain how you feel about this person",
+        "source_pages": [
+          8
+        ]
+      },
+      "part3": {
+        "questions": [
+          {
+            "text": "In which sectors are companies more likely to succeed in China?",
+            "source_pages": [
+              8
+            ]
+          },
+          {
+            "text": "Is it easy to start up a company?",
+            "source_pages": [
+              8
+            ]
+          },
+          {
+            "text": "Other than making money, what is more important for a company?",
+            "source_pages": [
+              8
+            ]
+          },
+          {
+            "text": "Does money equal success?",
+            "source_pages": [
+              8
+            ]
+          },
+          {
+            "text": "How can companies help protect the environment?",
+            "source_pages": [
+              8
+            ]
+          },
+          {
+            "text": "Is it difficult to do business in today's world?",
+            "source_pages": [
+              8
+            ]
+          }
+        ],
+        "source_pages": [
+          8
+        ],
+        "link_basis": "Immediately follows this cue card in the supplied PDF"
+      },
+      "source_notes": [],
+      "review_flags": [],
+      "automatic_full_mock_selection": true
+    },
+    {
+      "topic": "快乐人士",
+      "region": "mainland",
+      "category": "new",
+      "source_number": 3,
+      "id": "p2-003",
+      "source_pages": [
+        8,
+        9
+      ],
+      "part2": {
+        "prompt": "Describe a happy person you know",
+        "cue_lines": [
+          "Who this person is",
+          "What he/she is like",
+          "How he/she shows happiness",
+          "And explain why you think he/she is a happy person"
+        ],
+        "text": "Describe a happy person you know\nYou should say:\nWho this person is\nWhat he/she is like\nHow he/she shows happiness\nAnd explain why you think he/she is a happy person",
+        "source_pages": [
+          8
+        ]
+      },
+      "part3": {
+        "questions": [
+          {
+            "text": "When do you think people are happiest?",
+            "source_pages": [
+              9
+            ]
+          },
+          {
+            "text": "How can the arts spread positive emotions in society?",
+            "source_pages": [
+              9
+            ]
+          },
+          {
+            "text": "Do you think teachers are able to spot the unhappy children?",
+            "source_pages": [
+              9
+            ]
+          },
+          {
+            "text": "Should teachers know what children are doing all the time?",
+            "source_pages": [
+              9
+            ]
+          },
+          {
+            "text": "What would make a student happy at school?",
+            "source_pages": [
+              9
+            ]
+          },
+          {
+            "text": "Do you think doing a job that you like is more important than other things?",
+            "source_pages": [
+              9
+            ]
+          }
+        ],
+        "source_pages": [
+          9
+        ],
+        "link_basis": "Immediately follows this cue card in the supplied PDF"
+      },
+      "source_notes": [],
+      "review_flags": [],
+      "automatic_full_mock_selection": true
+    },
+    {
+      "topic": "看过的名人采访",
+      "region": "mainland",
+      "category": "new",
+      "source_number": 4,
+      "id": "p2-004",
+      "source_pages": [
+        9
+      ],
+      "part2": {
+        "prompt": "Describe a time you watched a famous person being interviewed",
+        "cue_lines": [
+          "Who the famous person was",
+          "What the interview was about",
+          "When and where you watched the interview",
+          "And explain how you felt about the interview"
+        ],
+        "text": "Describe a time you watched a famous person being interviewed\nYou should say:\nWho the famous person was\nWhat the interview was about\nWhen and where you watched the interview\nAnd explain how you felt about the interview",
+        "source_pages": [
+          9
+        ]
+      },
+      "part3": {
+        "questions": [
+          {
+            "text": "What should people wear to a job interview?",
+            "source_pages": [
+              9
+            ]
+          },
+          {
+            "text": "Why do we need to attend interviews when applying for jobs?",
+            "source_pages": [
+              9
+            ]
+          },
+          {
+            "text": "What should people do to prepare for a job interview?",
+            "source_pages": [
+              9
+            ]
+          },
+          {
+            "text": "Why do some people think interviews are a waste of time?",
+            "source_pages": [
+              9
+            ]
+          },
+          {
+            "text": "Why do some people dislike being interviewed?",
+            "source_pages": [
+              9
+            ]
+          },
+          {
+            "text": "What kinds of people are usually interviewed?",
+            "source_pages": [
+              9
+            ]
+          }
+        ],
+        "source_pages": [
+          9
+        ],
+        "link_basis": "Immediately follows this cue card in the supplied PDF"
+      },
+      "source_notes": [],
+      "review_flags": [],
+      "automatic_full_mock_selection": true
+    },
+    {
+      "topic": "有条理的人",
+      "region": "mainland",
+      "category": "new",
+      "source_number": 5,
+      "id": "p2-005",
+      "source_pages": [
+        9,
+        10
+      ],
+      "part2": {
+        "prompt": "Describe a person you know who is very organized",
+        "cue_lines": [
+          "Who this person is",
+          "What this person usually does to stay organized",
+          "In what situations you have noticed this quality",
+          "And explain why you think being organized is important to him/her"
+        ],
+        "text": "Describe a person you know who is very organized\nYou should say:\nWho this person is\nWhat this person usually does to stay organized\nIn what situations you have noticed this quality\nAnd explain why you think being organized is important to him/her",
+        "source_pages": [
+          9
+        ]
+      },
+      "part3": {
+        "questions": [
+          {
+            "text": "Do you think it is important for managers to be well organized?",
+            "source_pages": [
+              10
+            ]
+          },
+          {
+            "text": "Should parents teach their children to be organized?",
+            "source_pages": [
+              10
+            ]
+          },
+          {
+            "text": "What can people do to become more organized?",
+            "source_pages": [
+              10
+            ]
+          },
+          {
+            "text": "Are organized people more likely to be successful at work or in their studies?",
+            "source_pages": [
+              10
+            ]
+          },
+          {
+            "text": "Do you think children should learn to be organized from a young age?",
+            "source_pages": [
+              10
+            ]
+          },
+          {
+            "text": "Why is it important for people to be organized?",
+            "source_pages": [
+              10
+            ]
+          }
+        ],
+        "source_pages": [
+          10
+        ],
+        "link_basis": "Immediately follows this cue card in the supplied PDF"
+      },
+      "source_notes": [],
+      "review_flags": [],
+      "automatic_full_mock_selection": true
+    },
+    {
+      "topic": "嘈杂地",
+      "region": "mainland",
+      "category": "new",
+      "source_number": 6,
+      "id": "p2-006",
+      "source_pages": [
+        10
+      ],
+      "part2": {
+        "prompt": "Describe a noisy place you have been to",
+        "cue_lines": [
+          "Where it is",
+          "When you went there",
+          "What you did there",
+          "And explain why you feel it’s a noisy place"
+        ],
+        "text": "Describe a noisy place you have been to\nYou should say:\nWhere it is\nWhen you went there\nWhat you did there\nAnd explain why you feel it’s a noisy place",
+        "source_pages": [
+          10
+        ]
+      },
+      "part3": {
+        "questions": [
+          {
+            "text": "How can people consider others' feelings when chatting in public?",
+            "source_pages": [
+              10
+            ]
+          },
+          {
+            "text": "How would people usually respond to noises in your country?",
+            "source_pages": [
+              10
+            ]
+          },
+          {
+            "text": "Which area is exposed to noise more, the city or the countryside?",
+            "source_pages": [
+              10
+            ]
+          },
+          {
+            "text": "What kinds of noises are there in our life?",
+            "source_pages": [
+              10
+            ]
+          },
+          {
+            "text": "Should children not be allowed to make noise under any circumstances?",
+            "source_pages": [
+              10
+            ]
+          },
+          {
+            "text": "Do you think it is good for children to make noise?",
+            "source_pages": [
+              10
+            ]
+          }
+        ],
+        "source_pages": [
+          10
+        ],
+        "link_basis": "Immediately follows this cue card in the supplied PDF"
+      },
+      "source_notes": [],
+      "review_flags": [],
+      "automatic_full_mock_selection": true
+    },
+    {
+      "topic": "喜欢的城市自然之地",
+      "region": "mainland",
+      "category": "new",
+      "source_number": 7,
+      "id": "p2-007",
+      "source_pages": [
+        10,
+        11
+      ],
+      "part2": {
+        "prompt": "Describe a natural place in your city that you enjoy visiting",
+        "cue_lines": [
+          "Where it is",
+          "What it is like",
+          "How often you go there",
+          "Who you often go there with",
+          "And explain why you enjoy visiting there"
+        ],
+        "text": "Describe a natural place in your city that you enjoy visiting\nYou should say:\nWhere it is\nWhat it is like\nHow often you go there\nWho you often go there with\nAnd explain why you enjoy visiting there",
+        "source_pages": [
+          10
+        ]
+      },
+      "part3": {
+        "questions": [
+          {
+            "text": "Which is more important, protecting the environment or developing the economy?",
+            "source_pages": [
+              11
+            ]
+          },
+          {
+            "text": "Do you think staying in a natural place would help change people’s mood?",
+            "source_pages": [
+              11
+            ]
+          },
+          {
+            "text": "Do you think there should be many natural places in cities?",
+            "source_pages": [
+              11
+            ]
+          },
+          {
+            "text": "What can governments do to encourage people to spend more time in nature?",
+            "source_pages": [
+              11
+            ]
+          },
+          {
+            "text": "Do you think people should spend more time in nature?",
+            "source_pages": [
+              11
+            ]
+          },
+          {
+            "text": "What kind of people do you think enjoy being in nature?",
+            "source_pages": [
+              11
+            ]
+          }
+        ],
+        "source_pages": [
+          11
+        ],
+        "link_basis": "Immediately follows this cue card in the supplied PDF"
+      },
+      "source_notes": [],
+      "review_flags": [],
+      "automatic_full_mock_selection": true
+    },
+    {
+      "topic": "攒钱买特别物品",
+      "region": "mainland",
+      "category": "new",
+      "source_number": 8,
+      "id": "p2-008",
+      "source_pages": [
+        11
+      ],
+      "part2": {
+        "prompt": "Describe a time when you saved money to buy something special",
+        "cue_lines": [
+          "What the special thing was",
+          "Why you wanted to buy it",
+          "How you saved money for it",
+          "And explain how you felt after buying it"
+        ],
+        "text": "Describe a time when you saved money to buy something special\nYou should say:\nWhat the special thing was\nWhy you wanted to buy it\nHow you saved money for it\nAnd explain how you felt after buying it",
+        "source_pages": [
+          11
+        ]
+      },
+      "part3": {
+        "questions": [
+          {
+            "text": "Should people spend time on charity, or just money?",
+            "source_pages": [
+              11
+            ]
+          },
+          {
+            "text": "What kind of things do people usually save money for?",
+            "source_pages": [
+              11
+            ]
+          },
+          {
+            "text": "Is it easier to spend money or save money?",
+            "source_pages": [
+              11
+            ]
+          },
+          {
+            "text": "Do you think it is easier to teach teenagers how to manage money when they are around 16 or 17 years old?",
+            "source_pages": [
+              11
+            ]
+          },
+          {
+            "text": "Should parents teach their children to spend money freely or to save money?",
+            "source_pages": [
+              11
+            ]
+          },
+          {
+            "text": "Should schools teach children how to manage money from a young age?",
+            "source_pages": [
+              11
+            ]
+          }
+        ],
+        "source_pages": [
+          11
+        ],
+        "link_basis": "Immediately follows this cue card in the supplied PDF"
+      },
+      "source_notes": [],
+      "review_flags": [],
+      "automatic_full_mock_selection": true
+    },
+    {
+      "topic": "小时候学到的新技能",
+      "region": "mainland",
+      "category": "new",
+      "source_number": 9,
+      "id": "p2-009",
+      "source_pages": [
+        11,
+        12
+      ],
+      "part2": {
+        "prompt": "Describe a new skill you learned when you were a child",
+        "cue_lines": [
+          "What the skill was",
+          "Who taught you this skill",
+          "How you learned it",
+          "And explain how you felt about learning the skill"
+        ],
+        "text": "Describe a new skill you learned when you were a child\nYou should say:\nWhat the skill was\nWho taught you this skill\nHow you learned it\nAnd explain how you felt about learning the skill",
+        "source_pages": [
+          11
+        ]
+      },
+      "part3": {
+        "questions": [
+          {
+            "text": "Is it important for everyone to have a specialized skill?",
+            "source_pages": [
+              11
+            ]
+          },
+          {
+            "text": "Can a child learn skills from another child?",
+            "source_pages": [
+              12
+            ]
+          },
+          {
+            "text": "Do you think it is easier for children to learn new skills than for adults?",
+            "source_pages": [
+              12
+            ]
+          },
+          {
+            "text": "What are the differences between the way adults learn and the way children learn?",
+            "source_pages": [
+              12
+            ]
+          },
+          {
+            "text": "What are the differences between learning in a group and learning by yourself?",
+            "source_pages": [
+              12
+            ]
+          },
+          {
+            "text": "What skills should children learn before they go to school?",
+            "source_pages": [
+              12
+            ]
+          }
+        ],
+        "source_pages": [
+          11,
+          12
+        ],
+        "link_basis": "Immediately follows this cue card in the supplied PDF"
+      },
+      "source_notes": [],
+      "review_flags": [],
+      "automatic_full_mock_selection": true
+    },
+    {
+      "topic": "喜欢拍照的人",
+      "region": "mainland",
+      "category": "new",
+      "source_number": 10,
+      "id": "p2-010",
+      "source_pages": [
+        12
+      ],
+      "part2": {
+        "prompt": "Describe a person you know who really likes taking photos",
+        "cue_lines": [
+          "Who the person is",
+          "When and how you got to know him/her",
+          "Where he/she takes photos",
+          "And explain how you feel about him/her"
+        ],
+        "text": "Describe a person you know who really likes taking photos\nYou should say:\nWho the person is\nWhen and how you got to know him/her\nWhere he/she takes photos\nAnd explain how you feel about him/her",
+        "source_pages": [
+          12
+        ]
+      },
+      "part3": {
+        "questions": [
+          {
+            "text": "Some people don't mind others walking into their shot when they're taking photos.",
+            "source_pages": [
+              12
+            ],
+            "automatic_use": false,
+            "review_note": "Source provides a statement without a question; preserve it but do not generate a missing question."
+          },
+          {
+            "text": "Why do tourists like taking photos while they are travelling?",
+            "source_pages": [
+              12
+            ]
+          },
+          {
+            "text": "Do you think it’s ok to take photos everywhere?",
+            "source_pages": [
+              12
+            ]
+          },
+          {
+            "text": "What kind of photos do people often take?",
+            "source_pages": [
+              12
+            ]
+          },
+          {
+            "text": "Why are some people keen on taking photos?",
+            "source_pages": [
+              12
+            ]
+          },
+          {
+            "text": "When do people like taking photos?",
+            "source_pages": [
+              12
+            ]
+          }
+        ],
+        "source_pages": [
+          12
+        ],
+        "link_basis": "Immediately follows this cue card in the supplied PDF"
+      },
+      "source_notes": [],
+      "review_flags": [],
+      "automatic_full_mock_selection": true
+    },
+    {
+      "topic": "尊敬的比你年长的人",
+      "region": "mainland",
+      "category": "new",
+      "source_number": 11,
+      "id": "p2-011",
+      "source_pages": [
+        12,
+        13
+      ],
+      "part2": {
+        "prompt": "Describe someone who is older than you that you admire",
+        "cue_lines": [
+          "Who this person is",
+          "How you knew this person",
+          "What kinds of things you like to do together",
+          "And explain how you feel about this person"
+        ],
+        "text": "Describe someone who is older than you that you admire\nYou should say:\nWho this person is\nHow you knew this person\nWhat kinds of things you like to do together\nAnd explain how you feel about this person",
+        "source_pages": [
+          12
+        ]
+      },
+      "part3": {
+        "questions": [
+          {
+            "text": "What kinds of things do the elderly remember for a long time?",
+            "source_pages": [
+              12
+            ]
+          },
+          {
+            "text": "What sports are popular among older people?",
+            "source_pages": [
+              12
+            ]
+          },
+          {
+            "text": "What do old people usually do in their daily life?",
+            "source_pages": [
+              12
+            ]
+          },
+          {
+            "text": "Why is there a generation gap between the young and the old?",
+            "source_pages": [
+              13
+            ]
+          },
+          {
+            "text": "Has old people's life quality improved when compared to the past?",
+            "source_pages": [
+              13
+            ]
+          },
+          {
+            "text": "What can young and old people learn from each other?",
+            "source_pages": [
+              13
+            ]
+          }
+        ],
+        "source_pages": [
+          12,
+          13
+        ],
+        "link_basis": "Immediately follows this cue card in the supplied PDF"
+      },
+      "source_notes": [],
+      "review_flags": [],
+      "automatic_full_mock_selection": true
+    },
+    {
+      "topic": "听不感兴趣的话",
+      "region": "mainland",
+      "category": "new",
+      "source_number": 12,
+      "id": "p2-012",
+      "source_pages": [
+        13
+      ],
+      "part2": {
+        "prompt": "Describe a time when someone talked about something you were not interested in but you kept listening",
+        "cue_lines": [
+          "Who the person was",
+          "What he/she talked about",
+          "Why you kept listening",
+          "And explain how you felt about the experience"
+        ],
+        "text": "Describe a time when someone talked about something you were not interested in but you kept listening\nYou should say:\nWho the person was\nWhat he/she talked about\nWhy you kept listening\nAnd explain how you felt about the experience",
+        "source_pages": [
+          13
+        ]
+      },
+      "part3": {
+        "questions": [
+          {
+            "text": "How can we tell if a listener is listening carefully?",
+            "source_pages": [
+              13
+            ]
+          },
+          {
+            "text": "What would happen if the listener didn’t listen carefully?",
+            "source_pages": [
+              13
+            ]
+          },
+          {
+            "text": "What kind of topics do young people like to talk about today?",
+            "source_pages": [
+              13
+            ]
+          }
+        ],
+        "source_pages": [
+          13
+        ],
+        "link_basis": "Immediately follows this cue card in the supplied PDF"
+      },
+      "source_notes": [],
+      "review_flags": [],
+      "automatic_full_mock_selection": true
+    },
+    {
+      "topic": "好的购物服务",
+      "region": "mainland",
+      "category": "new",
+      "source_number": 13,
+      "id": "p2-013",
+      "source_pages": [
+        13
+      ],
+      "part2": {
+        "prompt": "Describe a time when you received good service in a shop/store/company",
+        "cue_lines": [
+          "Where the shop/store/company is",
+          "When you went to the shop/store/company",
+          "What service you received from the staff",
+          "And explain how you felt about the service"
+        ],
+        "text": "Describe a time when you received good service in a shop/store/company\nYou should say:\nWhere the shop/store/company is\nWhen you went to the shop/store/company\nWhat service you received from the staff\nAnd explain how you felt about the service",
+        "source_pages": [
+          13
+        ]
+      },
+      "part3": {
+        "questions": [
+          {
+            "text": "Can consumption drive economic growth?",
+            "source_pages": [
+              13
+            ]
+          },
+          {
+            "text": "What are the advantages and disadvantages of shopping online?",
+            "source_pages": [
+              13
+            ]
+          },
+          {
+            "text": "What are the differences between online shopping and in-store shopping?",
+            "source_pages": [
+              13
+            ]
+          },
+          {
+            "text": "Why do some people not like shopping in small shops?",
+            "source_pages": [
+              13
+            ]
+          },
+          {
+            "text": "What are the advantages and disadvantages of shopping in small shops?",
+            "source_pages": [
+              13
+            ]
+          },
+          {
+            "text": "Why are shopping malls so popular in China?",
+            "source_pages": [
+              13
+            ]
+          }
+        ],
+        "source_pages": [
+          13
+        ],
+        "link_basis": "Immediately follows this cue card in the supplied PDF"
+      },
+      "source_notes": [],
+      "review_flags": [],
+      "automatic_full_mock_selection": true
+    },
+    {
+      "topic": "擅长做手工的人",
+      "region": "mainland",
+      "category": "new",
+      "source_number": 14,
+      "id": "p2-014",
+      "source_pages": [
+        13,
+        14
+      ],
+      "part2": {
+        "prompt": "Describe a person who is good at making things by hand",
+        "cue_lines": [
+          "Who this person is",
+          "What he/she makes",
+          "What materials or technologies he/she uses",
+          "And why you think this person is good at making things by hand"
+        ],
+        "text": "Describe a person who is good at making things by hand\nYou should say:\nWho this person is\nWhat he/she makes\nWhat materials or technologies he/she uses\nAnd why you think this person is good at making things by hand",
+        "source_pages": [
+          14
+        ]
+      },
+      "part3": {
+        "questions": [
+          {
+            "text": "Does art, like music or theater, have an impact on society?",
+            "source_pages": [
+              14
+            ]
+          },
+          {
+            "text": "Is it good to have creative people in a team?",
+            "source_pages": [
+              14
+            ]
+          },
+          {
+            "text": "What impact can artistic buildings have on society?",
+            "source_pages": [
+              14
+            ]
+          },
+          {
+            "text": "Do children these days still like doing arts and crafts?",
+            "source_pages": [
+              14
+            ]
+          },
+          {
+            "text": "Why do some children enjoy making things by hand?",
+            "source_pages": [
+              14
+            ]
+          },
+          {
+            "text": "Do you think art classes are important for children?",
+            "source_pages": [
+              14
+            ]
+          }
+        ],
+        "source_pages": [
+          14
+        ],
+        "link_basis": "Immediately follows this cue card in the supplied PDF"
+      },
+      "source_notes": [],
+      "review_flags": [],
+      "automatic_full_mock_selection": true
+    },
+    {
+      "topic": "和朋友度过的愉快夜晚",
+      "region": "mainland",
+      "category": "new",
+      "source_number": 15,
+      "id": "p2-015",
+      "source_pages": [
+        14
+      ],
+      "part2": {
+        "prompt": "Describe an enjoyable evening you had with your friends",
+        "cue_lines": [
+          "When and where it was",
+          "What you did",
+          "Who you spent the evening with",
+          "And explain why it was enjoyable"
+        ],
+        "text": "Describe an enjoyable evening you had with your friends\nYou should say:\nWhen and where it was\nWhat you did\nWho you spent the evening with\nAnd explain why it was enjoyable",
+        "source_pages": [
+          14
+        ]
+      },
+      "part3": {
+        "questions": [
+          {
+            "text": "Why do people need friends?",
+            "source_pages": [
+              14
+            ]
+          },
+          {
+            "text": "Do older people prefer spending time with family or with friends?",
+            "source_pages": [
+              14
+            ]
+          },
+          {
+            "text": "Do young people prefer spending time with family or with friends?",
+            "source_pages": [
+              14
+            ]
+          },
+          {
+            "text": "What are the differences between young people’s leisure time activities and those of old people?",
+            "source_pages": [
+              14
+            ]
+          },
+          {
+            "text": "What can we do to bring family members closer together?",
+            "source_pages": [
+              14
+            ]
+          },
+          {
+            "text": "How do people get along in a big family?",
+            "source_pages": [
+              14
+            ]
+          }
+        ],
+        "source_pages": [
+          14
+        ],
+        "link_basis": "Immediately follows this cue card in the supplied PDF"
+      },
+      "source_notes": [],
+      "review_flags": [],
+      "automatic_full_mock_selection": true
+    },
+    {
+      "topic": "浪费时间的活动",
+      "region": "mainland",
+      "category": "new",
+      "source_number": 16,
+      "id": "p2-016",
+      "source_pages": [
+        14,
+        15
+      ],
+      "part2": {
+        "prompt": "Describe an activity you do regularly that you think is a waste of time",
+        "cue_lines": [
+          "What it is",
+          "When you usually do it",
+          "Why you do it",
+          "And explain why you think it is a waste of time"
+        ],
+        "text": "Describe an activity you do regularly that you think is a waste of time\nYou should say:\nWhat it is\nWhen you usually do it\nWhy you do it\nAnd explain why you think it is a waste of time",
+        "source_pages": [
+          14,
+          15
+        ]
+      },
+      "part3": {
+        "questions": [
+          {
+            "text": "Why do some people refuse to abide by rules?",
+            "source_pages": [
+              15
+            ]
+          },
+          {
+            "text": "What kinds of things make people feel pressured?",
+            "source_pages": [
+              15
+            ]
+          },
+          {
+            "text": "Will you continue doing something when you are aware that it’s a waste of time?",
+            "source_pages": [
+              15
+            ]
+          },
+          {
+            "text": "How do you balance life and work?",
+            "source_pages": [
+              15
+            ]
+          },
+          {
+            "text": "Is it good to have a daily routine?",
+            "source_pages": [
+              15
+            ]
+          },
+          {
+            "text": "Do you think stress is important in people's lives?",
+            "source_pages": [
+              15
+            ]
+          }
+        ],
+        "source_pages": [
+          15
+        ],
+        "link_basis": "Immediately follows this cue card in the supplied PDF"
+      },
+      "source_notes": [],
+      "review_flags": [],
+      "automatic_full_mock_selection": true
+    },
+    {
+      "topic": "拥挤地方",
+      "region": "mainland",
+      "category": "new",
+      "source_number": 17,
+      "id": "p2-017",
+      "source_pages": [
+        15
+      ],
+      "part2": {
+        "prompt": "Describe a crowded place you went to",
+        "cue_lines": [
+          "Where it was",
+          "When you went there",
+          "Who you went there with",
+          "What you did there"
+        ],
+        "text": "Describe a crowded place you went to\nYou should say:\nWhere it was\nWhen you went there\nWho you went there with\nWhat you did there",
+        "source_pages": [
+          15
+        ]
+      },
+      "part3": {
+        "questions": [
+          {
+            "text": "Do you think it is a good trend to have more big cities?",
+            "source_pages": [
+              15
+            ]
+          },
+          {
+            "text": "Do you think there are some people who enjoy crowded places?",
+            "source_pages": [
+              15
+            ]
+          },
+          {
+            "text": "Why do people go to crowded places?",
+            "source_pages": [
+              15
+            ]
+          },
+          {
+            "text": "Will people use bikes more or less in cities in the future?",
+            "source_pages": [
+              15
+            ]
+          },
+          {
+            "text": "Will there be more or less green space in cities in the future?",
+            "source_pages": [
+              15
+            ]
+          },
+          {
+            "text": "Which cities are overcrowded in your country?",
+            "source_pages": [
+              15
+            ]
+          }
+        ],
+        "source_pages": [
+          15
+        ],
+        "link_basis": "Immediately follows this cue card in the supplied PDF"
+      },
+      "source_notes": [],
+      "review_flags": [],
+      "automatic_full_mock_selection": true
+    },
+    {
+      "topic": "学习并喜欢历史的人",
+      "region": "mainland",
+      "category": "new",
+      "source_number": 18,
+      "id": "p2-018",
+      "source_pages": [
+        15,
+        16
+      ],
+      "part2": {
+        "prompt": "Describe a person who learns history and loves history",
+        "cue_lines": [
+          "Who this person is",
+          "How he/she learns history",
+          "Why he/she loves history",
+          "And explain how you feel about him/her"
+        ],
+        "text": "Describe a person who learns history and loves history\nYou should say:\nWho this person is\nHow he/she learns history\nWhy he/she loves history\nAnd explain how you feel about him/her",
+        "source_pages": [
+          15,
+          16
+        ]
+      },
+      "part3": {
+        "questions": [
+          {
+            "text": "Besides big historical events, what else is important when learning history?",
+            "source_pages": [
+              16
+            ]
+          },
+          {
+            "text": "Do you think people should learn ancient history before learning modern history?",
+            "source_pages": [
+              16
+            ]
+          },
+          {
+            "text": "Is it important to learn how people in the past lived their lives?",
+            "source_pages": [
+              16
+            ]
+          },
+          {
+            "text": "How do children learn history before they attend school?",
+            "source_pages": [
+              16
+            ]
+          },
+          {
+            "text": "At what age do you think people should begin to learn history?",
+            "source_pages": [
+              16
+            ]
+          },
+          {
+            "text": "Do you think children should begin learning history from an early age?",
+            "source_pages": [
+              16
+            ]
+          }
+        ],
+        "source_pages": [
+          16
+        ],
+        "link_basis": "Immediately follows this cue card in the supplied PDF"
+      },
+      "source_notes": [],
+      "review_flags": [],
+      "automatic_full_mock_selection": true
+    },
+    {
+      "topic": "教你新技能的人",
+      "region": "mainland",
+      "category": "new",
+      "source_number": 19,
+      "id": "p2-019",
+      "source_pages": [
+        16
+      ],
+      "part2": {
+        "prompt": "Describe a person who taught you a new skill",
+        "cue_lines": [
+          "Who this person was",
+          "What the skill was",
+          "How you learned it",
+          "And explain how you felt about this person"
+        ],
+        "text": "Describe a person who taught you a new skill\nYou should say:\nWho this person was\nWhat the skill was\nHow you learned it\nAnd explain how you felt about this person",
+        "source_pages": [
+          16
+        ]
+      },
+      "part3": {
+        "questions": [
+          {
+            "text": "Why is self-discipline important when learning a new skill?",
+            "source_pages": [
+              16
+            ]
+          },
+          {
+            "text": "What are the differences between learning from a teacher and learning by oneself?",
+            "source_pages": [
+              16
+            ]
+          },
+          {
+            "text": "How do adults learn a new skill?",
+            "source_pages": [
+              16
+            ]
+          },
+          {
+            "text": "How can parents and teachers teach children new skills?",
+            "source_pages": [
+              16
+            ]
+          },
+          {
+            "text": "Where can children learn new skills?",
+            "source_pages": [
+              16
+            ]
+          },
+          {
+            "text": "Why should children learn new skills?",
+            "source_pages": [
+              16
+            ]
+          }
+        ],
+        "source_pages": [
+          16
+        ],
+        "link_basis": "Immediately follows this cue card in the supplied PDF"
+      },
+      "source_notes": [],
+      "review_flags": [],
+      "automatic_full_mock_selection": true
+    },
+    {
+      "topic": "不喜欢的电影",
+      "region": "mainland",
+      "category": "new",
+      "source_number": 20,
+      "id": "p2-020",
+      "source_pages": [
+        16,
+        17
+      ],
+      "part2": {
+        "prompt": "Describe a movie/film you don’t like",
+        "cue_lines": [
+          "When you watched it",
+          "Where you watched it",
+          "What it was about",
+          "And explain why don’t like it"
+        ],
+        "text": "Describe a movie/film you don’t like\nYou should say:\nWhen you watched it\nWhere you watched it\nWhat it was about\nAnd explain why don’t like it",
+        "source_pages": [
+          16,
+          17
+        ]
+      },
+      "part3": {
+        "questions": [
+          {
+            "text": "Do people’s movie preferences change as they get older?",
+            "source_pages": [
+              17
+            ]
+          },
+          {
+            "text": "Should documentary films be completely truthful?",
+            "source_pages": [
+              17
+            ]
+          },
+          {
+            "text": "Can movies help people better understand the cultural background of a country?",
+            "source_pages": [
+              17
+            ]
+          },
+          {
+            "text": "Are movies more likely to help people become more creative than books?",
+            "source_pages": [
+              17
+            ]
+          },
+          {
+            "text": "What are the differences between watching movies at home and in a cinema?",
+            "source_pages": [
+              17
+            ]
+          },
+          {
+            "text": "What kinds of movies are the most popular in China?",
+            "source_pages": [
+              17
+            ]
+          }
+        ],
+        "source_pages": [
+          17
+        ],
+        "link_basis": "Immediately follows this cue card in the supplied PDF"
+      },
+      "source_notes": [],
+      "review_flags": [
+        "review_cue_wording_missing_subject"
+      ],
+      "automatic_full_mock_selection": false
+    },
+    {
+      "topic": "不喜欢的短途旅行",
+      "region": "mainland",
+      "category": "new",
+      "source_number": 21,
+      "id": "p2-021",
+      "source_pages": [
+        17
+      ],
+      "part2": {
+        "prompt": "Describe a short trip you often take but do not like",
+        "cue_lines": [
+          "Where you go",
+          "When you go there",
+          "Why you go there",
+          "And explain why you do not like the trip"
+        ],
+        "text": "Describe a short trip you often take but do not like\nYou should say:\nWhere you go\nWhen you go there\nWhy you go there\nAnd explain why you do not like the trip",
+        "source_pages": [
+          17
+        ]
+      },
+      "part3": {
+        "questions": [
+          {
+            "text": "What problems does it cause for transportation when everyone commutes at the same time?",
+            "source_pages": [
+              17
+            ]
+          },
+          {
+            "text": "What are the benefits of travelling abroad?",
+            "source_pages": [
+              17
+            ]
+          },
+          {
+            "text": "Which is better for knowing more about a country? Travelling or reading books about it?",
+            "source_pages": [
+              17
+            ]
+          },
+          {
+            "text": "How much time do you think people should spend on a trip abroad?",
+            "source_pages": [
+              17
+            ]
+          },
+          {
+            "text": "Who prefers travelling abroad? The young or the old?",
+            "source_pages": [
+              17
+            ]
+          },
+          {
+            "text": "Do Chinese people like travelling abroad?",
+            "source_pages": [
+              17
+            ]
+          }
+        ],
+        "source_pages": [
+          17
+        ],
+        "link_basis": "Immediately follows this cue card in the supplied PDF"
+      },
+      "source_notes": [],
+      "review_flags": [],
+      "automatic_full_mock_selection": true
+    },
+    {
+      "topic": "受欢迎的人",
+      "region": "mainland",
+      "category": "new",
+      "source_number": 22,
+      "id": "p2-022",
+      "source_pages": [
+        17,
+        18
+      ],
+      "part2": {
+        "prompt": "Describe a popular person",
+        "cue_lines": [
+          "Who this person is",
+          "What kind of person he or she is",
+          "When you see him/her normally",
+          "And explain why you think this person is popular"
+        ],
+        "text": "Describe a popular person\nYou should say:\nWho this person is\nWhat kind of person he or she is\nWhen you see him/her normally\nAnd explain why you think this person is popular",
+        "source_pages": [
+          17
+        ]
+      },
+      "part3": {
+        "questions": [
+          {
+            "text": "Why do people want to be popular?",
+            "source_pages": [
+              18
+            ]
+          },
+          {
+            "text": "Is it easier to become popular nowadays?",
+            "source_pages": [
+              18
+            ]
+          },
+          {
+            "text": "What are the qualities of being a good teacher?",
+            "source_pages": [
+              18
+            ]
+          },
+          {
+            "text": "Do you think good teachers are always popular among students?",
+            "source_pages": [
+              18
+            ]
+          },
+          {
+            "text": "Is it important for a teacher to be popular?",
+            "source_pages": [
+              18
+            ]
+          },
+          {
+            "text": "Why are some students popular in school?",
+            "source_pages": [
+              18
+            ]
+          }
+        ],
+        "source_pages": [
+          18
+        ],
+        "link_basis": "Immediately follows this cue card in the supplied PDF"
+      },
+      "source_notes": [],
+      "review_flags": [],
+      "automatic_full_mock_selection": true
+    },
+    {
+      "topic": "钦佩的运动员",
+      "region": "mainland",
+      "category": "new",
+      "source_number": 23,
+      "id": "p2-023",
+      "source_pages": [
+        18
+      ],
+      "part2": {
+        "prompt": "Describe a successful sportsperson you admire",
+        "cue_lines": [
+          "Who he/she is",
+          "What you know about him/her",
+          "What he/she is like in real life",
+          "What achievement he/she has made"
+        ],
+        "text": "Describe a successful sportsperson you admire\nYou should say:\nWho he/she is\nWhat you know about him/her\nWhat he/she is like in real life\nWhat achievement he/she has made",
+        "source_pages": [
+          18
+        ]
+      },
+      "part3": {
+        "questions": [
+          {
+            "text": "Why are there so few top athletes?",
+            "source_pages": [
+              18
+            ]
+          },
+          {
+            "text": "What is the most popular sport in your country?",
+            "source_pages": [
+              18
+            ]
+          },
+          {
+            "text": "Is it easy to identify children’s talents?",
+            "source_pages": [
+              18
+            ]
+          },
+          {
+            "text": "Is talent important in sports?",
+            "source_pages": [
+              18
+            ]
+          },
+          {
+            "text": "What qualities should an athlete have?",
+            "source_pages": [
+              18
+            ]
+          },
+          {
+            "text": "Should students have physical education and do sports at school?",
+            "source_pages": [
+              18
+            ]
+          }
+        ],
+        "source_pages": [
+          18
+        ],
+        "link_basis": "Immediately follows this cue card in the supplied PDF"
+      },
+      "source_notes": [],
+      "review_flags": [],
+      "automatic_full_mock_selection": true
+    },
+    {
+      "topic": "喜欢的公共建筑",
+      "region": "mainland",
+      "category": "new",
+      "source_number": 24,
+      "id": "p2-024",
+      "source_pages": [
+        18,
+        19
+      ],
+      "part2": {
+        "prompt": "Describe a public building you enjoy visiting (e.g. a library, a shopping mall, etc.)",
+        "cue_lines": [
+          "Where it is",
+          "How you knew it",
+          "What it looks like",
+          "And explain why you enjoy visiting it"
+        ],
+        "text": "Describe a public building you enjoy visiting (e.g. a library, a shopping mall, etc.)\nYou should say:\nWhere it is\nHow you knew it\nWhat it looks like\nAnd explain why you enjoy visiting it",
+        "source_pages": [
+          18
+        ]
+      },
+      "part3": {
+        "questions": [
+          {
+            "text": "Is it better to live in an apartment than in a house?",
+            "source_pages": [
+              18
+            ]
+          },
+          {
+            "text": "Do you think all old buildings should be demolished?",
+            "source_pages": [
+              18
+            ]
+          },
+          {
+            "text": "Do you think old buildings are valuable?",
+            "source_pages": [
+              19
+            ]
+          }
+        ],
+        "source_pages": [
+          18,
+          19
+        ],
+        "link_basis": "Immediately follows this cue card in the supplied PDF"
+      },
+      "source_notes": [],
+      "review_flags": [],
+      "automatic_full_mock_selection": true
+    },
+    {
+      "topic": "印象深刻的聚会",
+      "region": "mainland",
+      "category": "new",
+      "source_number": 25,
+      "id": "p2-025",
+      "source_pages": [
+        19
+      ],
+      "part2": {
+        "prompt": "Describe a party for a special event that impressed you a lot",
+        "cue_lines": [
+          "When and where it was held",
+          "What the party was held for",
+          "How many people attended it",
+          "And explain why it impressed you a lot"
+        ],
+        "text": "Describe a party for a special event that impressed you a lot\nYou should say:\nWhen and where it was held\nWhat the party was held for\nHow many people attended it\nAnd explain why it impressed you a lot",
+        "source_pages": [
+          19
+        ]
+      },
+      "part3": {
+        "questions": [
+          {
+            "text": "What special events are celebrated in your country?",
+            "source_pages": [
+              19
+            ]
+          },
+          {
+            "text": "Do most people prefer to hold a party in a restaurant or in a pub?",
+            "source_pages": [
+              19
+            ]
+          },
+          {
+            "text": "Do most people prefer to hold a party in a public place or a private place?",
+            "source_pages": [
+              19
+            ]
+          },
+          {
+            "text": "When do people like to hold a party?",
+            "source_pages": [
+              19
+            ]
+          }
+        ],
+        "source_pages": [
+          19
+        ],
+        "link_basis": "Immediately follows this cue card in the supplied PDF"
+      },
+      "source_notes": [],
+      "review_flags": [],
+      "automatic_full_mock_selection": true
+    },
+    {
+      "topic": "帮别人提升健康",
+      "region": "mainland",
+      "category": "new",
+      "source_number": 26,
+      "id": "p2-026",
+      "source_pages": [
+        19
+      ],
+      "part2": {
+        "prompt": "Describe a person whose health and fitness you have helped to improve",
+        "cue_lines": [
+          "Who this person was",
+          "Why you helped him/her",
+          "How you helped him/her",
+          "And explain whether it was easy or difficult"
+        ],
+        "text": "Describe a person whose health and fitness you have helped to improve\nYou should say:\nWho this person was\nWhy you helped him/her\nHow you helped him/her\nAnd explain whether it was easy or difficult",
+        "source_pages": [
+          19
+        ]
+      },
+      "part3": {
+        "questions": [
+          {
+            "text": "What effect does stress have on health?",
+            "source_pages": [
+              19
+            ]
+          },
+          {
+            "text": "Which group pays more attention to health, young people or old people?",
+            "source_pages": [
+              19
+            ]
+          }
+        ],
+        "source_pages": [
+          19
+        ],
+        "link_basis": "Immediately follows this cue card in the supplied PDF"
+      },
+      "source_notes": [],
+      "review_flags": [
+        "sparse_part3"
+      ],
+      "automatic_full_mock_selection": false
+    },
+    {
+      "topic": "读起来开心的书",
+      "region": "mainland",
+      "category": "new",
+      "source_number": 27,
+      "id": "p2-027",
+      "source_pages": [
+        19,
+        20
+      ],
+      "part2": {
+        "prompt": "Describe a book you read that made you happy",
+        "cue_lines": [
+          "What kind of book it was",
+          "What it was about",
+          "Why you read it",
+          "And explain why it made you happy"
+        ],
+        "text": "Describe a book you read that made you happy\nYou should say:\nWhat kind of book it was\nWhat it was about\nWhy you read it\nAnd explain why it made you happy",
+        "source_pages": [
+          19,
+          20
+        ]
+      },
+      "part3": {
+        "questions": [
+          {
+            "text": "Are success books useful to everyone?",
+            "source_pages": [
+              20
+            ]
+          },
+          {
+            "text": "Do you think people should read the original book before watching the movie?",
+            "source_pages": [
+              20
+            ]
+          },
+          {
+            "text": "What kinds of books are popular in China?",
+            "source_pages": [
+              20
+            ]
+          }
+        ],
+        "source_pages": [
+          20
+        ],
+        "link_basis": "Immediately follows this cue card in the supplied PDF"
+      },
+      "source_notes": [],
+      "review_flags": [],
+      "automatic_full_mock_selection": true
+    },
+    {
+      "topic": "帮助他人",
+      "region": "mainland",
+      "category": "new",
+      "source_number": 28,
+      "id": "p2-028",
+      "source_pages": [
+        20
+      ],
+      "part2": {
+        "prompt": "Describe a time when you helped someone",
+        "cue_lines": [
+          "Where you helped him/her",
+          "Why you helped",
+          "How you helped",
+          "And explain how you felt about it"
+        ],
+        "text": "Describe a time when you helped someone\nYou should say：\nWhere you helped him/her\nWhy you helped\nHow you helped\nAnd explain how you felt about it",
+        "source_pages": [
+          20
+        ]
+      },
+      "part3": {
+        "questions": [
+          {
+            "text": "Should children be taught to be kind to others?",
+            "source_pages": [
+              20
+            ]
+          },
+          {
+            "text": "Should people be very kind when they help others?",
+            "source_pages": [
+              20
+            ]
+          },
+          {
+            "text": "Can kids provide any help to parents?",
+            "source_pages": [
+              20
+            ]
+          },
+          {
+            "text": "Should parents give children advice? Why?",
+            "source_pages": [
+              20
+            ]
+          },
+          {
+            "text": "What kind of advice should parents give to their children?",
+            "source_pages": [
+              20
+            ]
+          },
+          {
+            "text": "Should parents help their kids with their homework?",
+            "source_pages": [
+              20
+            ]
+          }
+        ],
+        "source_pages": [
+          20
+        ],
+        "link_basis": "Immediately follows this cue card in the supplied PDF"
+      },
+      "source_notes": [],
+      "review_flags": [],
+      "automatic_full_mock_selection": true
+    },
+    {
+      "topic": "喜欢或不喜欢的高建筑",
+      "region": "mainland",
+      "category": "retained",
+      "source_number": 1,
+      "id": "p2-029",
+      "source_pages": [
+        26,
+        27
+      ],
+      "part2": {
+        "prompt": "Describe a tall building you like or dislike",
+        "cue_lines": [
+          "What it is used for",
+          "Where it is",
+          "What it looks like",
+          "And explain why you like/dislike it"
+        ],
+        "text": "Describe a tall building you like or dislike\nYou should say:\nWhat it is used for\nWhere it is\nWhat it looks like\nAnd explain why you like/dislike it",
+        "source_pages": [
+          26
+        ]
+      },
+      "part3": {
+        "questions": [
+          {
+            "text": "Are there many tall buildings in your country?",
+            "source_pages": [
+              26
+            ]
+          },
+          {
+            "text": "What are the differences between those tall buildings in your country?",
+            "source_pages": [
+              26
+            ]
+          },
+          {
+            "text": "Why are different places laid out and designed differently?",
+            "source_pages": [
+              26
+            ]
+          },
+          {
+            "text": "What are the advantages of living in tall buildings?",
+            "source_pages": [
+              27
+            ]
+          },
+          {
+            "text": "Why do some people like to remodel and decorate their homes themselves?",
+            "source_pages": [
+              27
+            ]
+          },
+          {
+            "text": "What kind of interior design style do most people like?",
+            "source_pages": [
+              27
+            ]
+          }
+        ],
+        "source_pages": [
+          26,
+          27
+        ],
+        "link_basis": "Immediately follows this cue card in the supplied PDF"
+      },
+      "source_notes": [],
+      "review_flags": [],
+      "automatic_full_mock_selection": true
+    },
+    {
+      "topic": "有趣视频",
+      "region": "mainland",
+      "category": "retained",
+      "source_number": 2,
+      "id": "p2-030",
+      "source_pages": [
+        27
+      ],
+      "part2": {
+        "prompt": "Describe an interesting video",
+        "cue_lines": [
+          "When and where you watched it",
+          "What it is about",
+          "Why you watched it",
+          "And explain how you feel about it"
+        ],
+        "text": "Describe an interesting video\nYou should say:\nWhen and where you watched it\nWhat it is about\nWhy you watched it\nAnd explain how you feel about it",
+        "source_pages": [
+          27
+        ]
+      },
+      "part3": {
+        "questions": [
+          {
+            "text": "What kind of videos do people in your country like to watch?",
+            "source_pages": [
+              27
+            ]
+          },
+          {
+            "text": "Which is more helpful, watching videos or reading books?",
+            "source_pages": [
+              27
+            ]
+          },
+          {
+            "text": "What skills can people learn from watching videos?",
+            "source_pages": [
+              27
+            ]
+          },
+          {
+            "text": "Are there any differences between the videos that young people and old people like to watch?",
+            "source_pages": [
+              27
+            ]
+          },
+          {
+            "text": "Are there any differences between the videos that young men and young women like to watch?",
+            "source_pages": [
+              27
+            ]
+          },
+          {
+            "text": "What makes a video go viral online?",
+            "source_pages": [
+              27
+            ]
+          }
+        ],
+        "source_pages": [
+          27
+        ],
+        "link_basis": "Immediately follows this cue card in the supplied PDF"
+      },
+      "source_notes": [],
+      "review_flags": [],
+      "automatic_full_mock_selection": true
+    },
+    {
+      "topic": "去过的无聊地方",
+      "region": "mainland",
+      "category": "retained",
+      "source_number": 3,
+      "id": "p2-031",
+      "source_pages": [
+        27,
+        28
+      ],
+      "part2": {
+        "prompt": "Describe a boring place",
+        "cue_lines": [
+          "Where it is",
+          "Who you went there with",
+          "What you did there",
+          "And explain why you think it is a boring place"
+        ],
+        "text": "Describe a boring place\nYou should say:\nWhere it is\nWho you went there with\nWhat you did there\nAnd explain why you think it is a boring place",
+        "source_pages": [
+          27
+        ]
+      },
+      "part3": {
+        "questions": [
+          {
+            "text": "Why do most children think education is boring?",
+            "source_pages": [
+              27
+            ]
+          },
+          {
+            "text": "Why aren’t young people willing to listen to the experiences of older people?",
+            "source_pages": [
+              27
+            ]
+          },
+          {
+            "text": "What can people do when they feel bored?",
+            "source_pages": [
+              27
+            ]
+          },
+          {
+            "text": "Why are some teachers’ classes boring? Are there any solutions?",
+            "source_pages": [
+              28
+            ]
+          },
+          {
+            "text": "Why do some young people feel bored when talking with old people?",
+            "source_pages": [
+              28
+            ]
+          },
+          {
+            "text": "Do most people think news about celebrities is boring?",
+            "source_pages": [
+              28
+            ]
+          }
+        ],
+        "source_pages": [
+          27,
+          28
+        ],
+        "link_basis": "Immediately follows this cue card in the supplied PDF"
+      },
+      "source_notes": [],
+      "review_flags": [],
+      "automatic_full_mock_selection": true
+    },
+    {
+      "topic": "早起经历",
+      "region": "mainland",
+      "category": "retained",
+      "source_number": 4,
+      "id": "p2-032",
+      "source_pages": [
+        28
+      ],
+      "part2": {
+        "prompt": "Describe a time when you got up early",
+        "cue_lines": [
+          "When it was",
+          "What you did",
+          "Why you got up early",
+          "And how you felt about it"
+        ],
+        "text": "Describe a time when you got up early\nYou should say:\nWhen it was\nWhat you did\nWhy you got up early\nAnd how you felt about it",
+        "source_pages": [
+          28
+        ]
+      },
+      "part3": {
+        "questions": [
+          {
+            "text": "Do you know anyone who likes to get up early?",
+            "source_pages": [
+              28
+            ]
+          },
+          {
+            "text": "Why do people get up early?",
+            "source_pages": [
+              28
+            ]
+          },
+          {
+            "text": "What kinds of occasions need people to arrive early?",
+            "source_pages": [
+              28
+            ]
+          },
+          {
+            "text": "Why do some people like to stay up late?",
+            "source_pages": [
+              28
+            ]
+          },
+          {
+            "text": "Is it good to arrive early in any situation?",
+            "source_pages": [
+              28
+            ]
+          },
+          {
+            "text": "What kind of people like getting up early?",
+            "source_pages": [
+              28
+            ]
+          }
+        ],
+        "source_pages": [
+          28
+        ],
+        "link_basis": "Immediately follows this cue card in the supplied PDF"
+      },
+      "source_notes": [],
+      "review_flags": [],
+      "automatic_full_mock_selection": true
+    },
+    {
+      "topic": "喜欢在家/花园种菜的人",
+      "region": "mainland",
+      "category": "retained",
+      "source_number": 5,
+      "id": "p2-033",
+      "source_pages": [
+        28,
+        29
+      ],
+      "part2": {
+        "prompt": "Describe a person who loves to grow plants (e.g. vegetables, flowers) at home or in the garden",
+        "cue_lines": [
+          "Who this person is",
+          "What plants he/she grows",
+          "How he/she grows the plants",
+          "And explain why he/she loves growing plants"
+        ],
+        "text": "Describe a person who loves to grow plants (e.g. vegetables, flowers) at home or in the garden\nYou should say:\nWho this person is\nWhat plants he/she grows\nHow he/she grows the plants\nAnd explain why he/she loves growing plants",
+        "source_pages": [
+          28
+        ],
+        "raw_text": "Describe a person who loves to grow plants (e.g. vegetables, flowers) at home or in t he garden\nYou should say:\nWho this person is\nWhat plants he/she grows\nHow he/she grows the plants\nAnd explain why he/she loves growing plants",
+        "layout_normalization": "PDF page 28 splits the word the across physical lines; joined t + he without adding or changing letters."
+      },
+      "part3": {
+        "questions": [
+          {
+            "text": "What are the advantages of growing vegetables or flowers at home?",
+            "source_pages": [
+              28
+            ]
+          },
+          {
+            "text": "Do many people grow vegetables or flowers at home in your country?",
+            "source_pages": [
+              28
+            ]
+          },
+          {
+            "text": "Is it easy to grow plants at home?",
+            "source_pages": [
+              28
+            ]
+          },
+          {
+            "text": "Why do some people like to grow plants?",
+            "source_pages": [
+              28
+            ]
+          },
+          {
+            "text": "Why do some people prefer to grow their own fruits and vegetables instead of buying them from the market?",
+            "source_pages": [
+              29
+            ]
+          },
+          {
+            "text": "Do you think students should learn to grow plant?",
+            "source_pages": [
+              29
+            ]
+          }
+        ],
+        "source_pages": [
+          28,
+          29
+        ],
+        "link_basis": "Immediately follows this cue card in the supplied PDF"
+      },
+      "source_notes": [],
+      "review_flags": [],
+      "automatic_full_mock_selection": true
+    },
+    {
+      "topic": "想颁布的新法律",
+      "region": "mainland",
+      "category": "retained",
+      "source_number": 6,
+      "id": "p2-034",
+      "source_pages": [
+        29
+      ],
+      "part2": {
+        "prompt": "Describe a new law you would like to introduce in your country",
+        "cue_lines": [
+          "What law it is",
+          "What changes this law brings",
+          "Whether this new law will be popular",
+          "How you came up with the new law",
+          "And explain how you feel about this new law"
+        ],
+        "text": "Describe a new law you would like to introduce in your country\nYou should say:\nWhat law it is\nWhat changes this law brings\nWhether this new law will be popular\nHow you came up with the new law\nAnd explain how you feel about this new law",
+        "source_pages": [
+          29
+        ]
+      },
+      "part3": {
+        "questions": [
+          {
+            "text": "What rules should students follow at school?",
+            "source_pages": [
+              29
+            ]
+          },
+          {
+            "text": "Do people in your country usually obey the law?",
+            "source_pages": [
+              29
+            ]
+          },
+          {
+            "text": "What kinds of behavior are considered as good behavior?",
+            "source_pages": [
+              29
+            ]
+          },
+          {
+            "text": "Do you think children can learn about the law outside of school?",
+            "source_pages": [
+              29
+            ]
+          },
+          {
+            "text": "What are the benefits for people to obey rules?",
+            "source_pages": [
+              29
+            ]
+          },
+          {
+            "text": "How can parents teach children to obey rules?",
+            "source_pages": [
+              29
+            ]
+          }
+        ],
+        "source_pages": [
+          29
+        ],
+        "link_basis": "Immediately follows this cue card in the supplied PDF"
+      },
+      "source_notes": [],
+      "review_flags": [],
+      "automatic_full_mock_selection": true
+    },
+    {
+      "topic": "发小",
+      "region": "mainland",
+      "category": "retained",
+      "source_number": 7,
+      "id": "p2-035",
+      "source_pages": [
+        29,
+        30
+      ],
+      "part2": {
+        "prompt": "Describe a friend from your childhood",
+        "cue_lines": [
+          "Who he/she is",
+          "Where and how you met each other",
+          "What you often did together",
+          "And explain what made you like him/her"
+        ],
+        "text": "Describe a friend from your childhood\nYou should say:\nWho he/she is\nWhere and how you met each other\nWhat you often did together\nAnd explain what made you like him/her",
+        "source_pages": [
+          29
+        ]
+      },
+      "part3": {
+        "questions": [
+          {
+            "text": "Do you still keep in touch with your friends from childhood? Why or why not?",
+            "source_pages": [
+              29
+            ]
+          },
+          {
+            "text": "How important is childhood friendship to children?",
+            "source_pages": [
+              29
+            ]
+          },
+          {
+            "text": "What do you think of communicating via social media?",
+            "source_pages": [
+              29
+            ]
+          },
+          {
+            "text": "Do you think online communication through social media will replace face-to-face communication?",
+            "source_pages": [
+              29,
+              30
+            ]
+          },
+          {
+            "text": "What's the difference between having younger friends and older friends?",
+            "source_pages": [
+              30
+            ]
+          },
+          {
+            "text": "Has technology changed people's friendships? How?",
+            "source_pages": [
+              30
+            ]
+          }
+        ],
+        "source_pages": [
+          29,
+          30
+        ],
+        "link_basis": "Immediately follows this cue card in the supplied PDF"
+      },
+      "source_notes": [],
+      "review_flags": [],
+      "automatic_full_mock_selection": true
+    },
+    {
+      "topic": "想从事医疗行业的人",
+      "region": "mainland",
+      "category": "retained",
+      "source_number": 8,
+      "id": "p2-036",
+      "source_pages": [
+        30
+      ],
+      "part2": {
+        "prompt": "Describe a person you know who would like to choose a career in the medical field (e.g. a doctor, a nurse)",
+        "cue_lines": [
+          "When you knew him/her",
+          "When he/she started to think about that",
+          "What he/she would like to do",
+          "And explain why he/she would like to choose this career"
+        ],
+        "text": "Describe a person you know who would like to choose a career in the medical field (e.g. a doctor, a nurse)\nYou should say:\nWhen you knew him/her\nWhen he/she started to think about that\nWhat he/she would like to do\nAnd explain why he/she would like to choose this career",
+        "source_pages": [
+          30
+        ]
+      },
+      "part3": {
+        "questions": [
+          {
+            "text": "Do you think being a doctor is easy or difficult?",
+            "source_pages": [
+              30
+            ]
+          },
+          {
+            "text": "Do you think learning biology is interesting for children?",
+            "source_pages": [
+              30
+            ]
+          },
+          {
+            "text": "Why do some children want to become doctors?",
+            "source_pages": [
+              30
+            ]
+          },
+          {
+            "text": "Do you think governments should put a large amount of money into medical research?",
+            "source_pages": [
+              30
+            ]
+          },
+          {
+            "text": "Why is some doctors’ pay high and others’ low?",
+            "source_pages": [
+              30
+            ]
+          },
+          {
+            "text": "Do you think doctors should be paid more?",
+            "source_pages": [
+              30
+            ]
+          }
+        ],
+        "source_pages": [
+          30
+        ],
+        "link_basis": "Immediately follows this cue card in the supplied PDF"
+      },
+      "source_notes": [],
+      "review_flags": [],
+      "automatic_full_mock_selection": true
+    },
+    {
+      "topic": "拥有成功商业的人",
+      "region": "mainland",
+      "category": "retained",
+      "source_number": 9,
+      "id": "p2-037",
+      "source_pages": [
+        30,
+        31
+      ],
+      "part2": {
+        "prompt": "Describe a person you know who has a successful business",
+        "cue_lines": [
+          "Who this person is",
+          "How you got to know him/her",
+          "Why and how he/she started the business",
+          "What business he/she does",
+          "And explain why you think the business is successful"
+        ],
+        "text": "Describe a person you know who has a successful business\nYou should say:\nWho this person is\nHow you got to know him/her\nWhy and how he/she started the business\nWhat business he/she does\nAnd explain why you think the business is successful",
+        "source_pages": [
+          30
+        ]
+      },
+      "part3": {
+        "questions": [
+          {
+            "text": "Why do some people start their own business?",
+            "source_pages": [
+              30
+            ]
+          },
+          {
+            "text": "Should governments provide financial support to start-ups?",
+            "source_pages": [
+              30
+            ]
+          },
+          {
+            "text": "Do most people prefer shopping at big stores or small stores?",
+            "source_pages": [
+              31
+            ]
+          },
+          {
+            "text": "What makes a business successful?",
+            "source_pages": [
+              31
+            ]
+          },
+          {
+            "text": "What makes a business fail?",
+            "source_pages": [
+              31
+            ]
+          },
+          {
+            "text": "Is it easy to set up a new business in your country?",
+            "source_pages": [
+              31
+            ]
+          }
+        ],
+        "source_pages": [
+          30,
+          31
+        ],
+        "link_basis": "Immediately follows this cue card in the supplied PDF"
+      },
+      "source_notes": [],
+      "review_flags": [],
+      "automatic_full_mock_selection": true
+    },
+    {
+      "topic": "近期改变的计划",
+      "region": "mainland",
+      "category": "retained",
+      "source_number": 10,
+      "id": "p2-038",
+      "source_pages": [
+        31
+      ],
+      "part2": {
+        "prompt": "Describe a plan that you had to change recently",
+        "cue_lines": [
+          "When this happened",
+          "What made you change the plan",
+          "What the new plan was",
+          "And how you felt about the change"
+        ],
+        "text": "Describe a plan that you had to change recently\nYou should say:\nWhen this happened\nWhat made you change the plan\nWhat the new plan was\nAnd how you felt about the change",
+        "source_pages": [
+          31
+        ]
+      },
+      "part3": {
+        "questions": [
+          {
+            "text": "Do people often change their plans?",
+            "source_pages": [
+              31
+            ]
+          },
+          {
+            "text": "Would you tell others if you change your plan?",
+            "source_pages": [
+              31
+            ]
+          },
+          {
+            "text": "Why do you think parents still make plans for their children nowadays?",
+            "source_pages": [
+              31
+            ]
+          },
+          {
+            "text": "How does technology help people make plans?",
+            "source_pages": [
+              31
+            ]
+          },
+          {
+            "text": "What kind of plans do people often make?",
+            "source_pages": [
+              31
+            ]
+          },
+          {
+            "text": "Do you think people like the process of making plans more, or the moment of carrying them out?",
+            "source_pages": [
+              31
+            ]
+          }
+        ],
+        "source_pages": [
+          31
+        ],
+        "link_basis": "Immediately follows this cue card in the supplied PDF"
+      },
+      "source_notes": [],
+      "review_flags": [],
+      "automatic_full_mock_selection": true
+    },
+    {
+      "topic": "在团队中工作",
+      "region": "mainland",
+      "category": "retained",
+      "source_number": 11,
+      "id": "p2-039",
+      "source_pages": [
+        31,
+        32
+      ],
+      "part2": {
+        "prompt": "Describe a time when you worked in a group",
+        "cue_lines": [
+          "What you did",
+          "Who you worked with",
+          "What problems you faced",
+          "And explain why you worked in the group"
+        ],
+        "text": "Describe a time when you worked in a group\nYou should say:\nWhat you did\nWho you worked with\nWhat problems you faced\nAnd explain why you worked in the group",
+        "source_pages": [
+          31
+        ]
+      },
+      "part3": {
+        "questions": [
+          {
+            "text": "Why do some people prefer to work by themselves?",
+            "source_pages": [
+              31
+            ]
+          },
+          {
+            "text": "What should a leader do to make team members want to follow him or her?",
+            "source_pages": [
+              31
+            ]
+          },
+          {
+            "text": "Should students learn to do group work?",
+            "source_pages": [
+              31
+            ]
+          },
+          {
+            "text": "What group tasks are there in schools?",
+            "source_pages": [
+              32
+            ]
+          },
+          {
+            "text": "What advantages are there for students experiencing teamwork at school?",
+            "source_pages": [
+              32
+            ]
+          },
+          {
+            "text": "How can you tell if a person is a good leader?",
+            "source_pages": [
+              32
+            ]
+          }
+        ],
+        "source_pages": [
+          31,
+          32
+        ],
+        "link_basis": "Immediately follows this cue card in the supplied PDF"
+      },
+      "source_notes": [],
+      "review_flags": [],
+      "automatic_full_mock_selection": true
+    },
+    {
+      "topic": "重要决定",
+      "region": "mainland",
+      "category": "retained",
+      "source_number": 12,
+      "id": "p2-040",
+      "source_pages": [
+        32
+      ],
+      "part2": {
+        "prompt": "Describe an important decision that you made",
+        "cue_lines": [
+          "What the decision was",
+          "How you made your decision",
+          "What the results of the decision were",
+          "And explain why it was important"
+        ],
+        "text": "Describe an important decision that you made\nYou should say:\nWhat the decision was\nHow you made your decision\nWhat the results of the decision were\nAnd explain why it was important",
+        "source_pages": [
+          32
+        ]
+      },
+      "part3": {
+        "questions": [
+          {
+            "text": "Do you think children sometimes have to make important decisions?",
+            "source_pages": [
+              32
+            ]
+          },
+          {
+            "text": "What important decisions do teenagers need to make after graduation?",
+            "source_pages": [
+              32
+            ]
+          },
+          {
+            "text": "Who can children turn to for help when making a decision?",
+            "source_pages": [
+              32
+            ]
+          },
+          {
+            "text": "Do you think advertisements can influence our decisions when shopping?",
+            "source_pages": [
+              32
+            ]
+          },
+          {
+            "text": "Do you think the influence of advertising is good?",
+            "source_pages": [
+              32
+            ]
+          },
+          {
+            "text": "How do people usually make important decisions?",
+            "source_pages": [
+              32
+            ]
+          }
+        ],
+        "source_pages": [
+          32
+        ],
+        "link_basis": "Immediately follows this cue card in the supplied PDF"
+      },
+      "source_notes": [],
+      "review_flags": [],
+      "automatic_full_mock_selection": true
+    },
+    {
+      "topic": "喜欢的现场体育赛事",
+      "region": "mainland",
+      "category": "retained",
+      "source_number": 13,
+      "id": "p2-041",
+      "source_pages": [
+        32,
+        33
+      ],
+      "part2": {
+        "prompt": "Describe a live sports event you watched and liked",
+        "cue_lines": [
+          "What it was",
+          "When and where you watched it",
+          "Who you watched it with",
+          "And explain why you liked it"
+        ],
+        "text": "Describe a live sports event you watched and liked\nYou should say:\nWhat it was\nWhen and where you watched it\nWho you watched it with\nAnd explain why you liked it",
+        "source_pages": [
+          32
+        ]
+      },
+      "part3": {
+        "questions": [
+          {
+            "text": "Why do some people like to watch sports events?",
+            "source_pages": [
+              32
+            ]
+          },
+          {
+            "text": "Where do people normally watch sports events?",
+            "source_pages": [
+              32
+            ]
+          },
+          {
+            "text": "What are the advantages of watching sports events online?",
+            "source_pages": [
+              32
+            ]
+          },
+          {
+            "text": "What sports matches are suitable for children to attend?",
+            "source_pages": [
+              32
+            ]
+          },
+          {
+            "text": "Why do some people spend a lot going to other countries to watch sports events?",
+            "source_pages": [
+              32,
+              33
+            ]
+          },
+          {
+            "text": "What sports games are popular in your country?",
+            "source_pages": [
+              33
+            ]
+          }
+        ],
+        "source_pages": [
+          32,
+          33
+        ],
+        "link_basis": "Immediately follows this cue card in the supplied PDF"
+      },
+      "source_notes": [],
+      "review_flags": [],
+      "automatic_full_mock_selection": true
+    },
+    {
+      "topic": "特别场合的食物",
+      "region": "mainland",
+      "category": "retained",
+      "source_number": 14,
+      "id": "p2-042",
+      "source_pages": [
+        33
+      ],
+      "part2": {
+        "prompt": "Describe a food that people eat on special occasions/events",
+        "cue_lines": [
+          "What it is",
+          "What the special event/occasion is",
+          "How it is cooked/made",
+          "And explain why people eat it on that special occasion/event"
+        ],
+        "text": "Describe a food that people eat on special occasions/events\nYou should say:\nWhat it is\nWhat the special event/occasion is\nHow it is cooked/made\nAnd explain why people eat it on that special occasion/event",
+        "source_pages": [
+          33
+        ]
+      },
+      "part3": {
+        "questions": [
+          {
+            "text": "Why are there special foods on special occasions or events?",
+            "source_pages": [
+              33
+            ]
+          },
+          {
+            "text": "What are the differences between everyday food and festival food?",
+            "source_pages": [
+              33
+            ]
+          },
+          {
+            "text": "Are there any differences between the food people eat today and the food people ate in the past?",
+            "source_pages": [
+              33
+            ]
+          },
+          {
+            "text": "Do people today prefer eating at home or in a restaurant?",
+            "source_pages": [
+              33
+            ]
+          }
+        ],
+        "source_pages": [
+          33
+        ],
+        "link_basis": "Immediately follows this cue card in the supplied PDF"
+      },
+      "source_notes": [],
+      "review_flags": [],
+      "automatic_full_mock_selection": true
+    },
+    {
+      "topic": "擅长学习和说语言的人",
+      "region": "mainland",
+      "category": "retained",
+      "source_number": 15,
+      "id": "p2-043",
+      "source_pages": [
+        33
+      ],
+      "part2": {
+        "prompt": "Describe a person who is good at learning and speaking new languages",
+        "cue_lines": [
+          "How you got to know him/her",
+          "How he/she learns a new language",
+          "What languages he/she can speak",
+          "And explain how you feel about him/her"
+        ],
+        "text": "Describe a person who is good at learning and speaking new languages\nYou should say:\nHow you got to know him/her\nHow he/she learns a new language\nWhat languages he/she can speak\nAnd explain how you feel about him/her",
+        "source_pages": [
+          33
+        ]
+      },
+      "part3": {
+        "questions": [
+          {
+            "text": "Are there many people who can speak foreign languages in your country?",
+            "source_pages": [
+              33
+            ]
+          },
+          {
+            "text": "Does speaking other languages help at work?",
+            "source_pages": [
+              33
+            ]
+          },
+          {
+            "text": "Do people learn any languages other than English?",
+            "source_pages": [
+              33
+            ]
+          },
+          {
+            "text": "Why is it easier for children to learn new things than for adults?",
+            "source_pages": [
+              33
+            ]
+          },
+          {
+            "text": "How do people learn new things?",
+            "source_pages": [
+              33
+            ]
+          },
+          {
+            "text": "What is the most important thing for learning a language well?",
+            "source_pages": [
+              33
+            ]
+          }
+        ],
+        "source_pages": [
+          33
+        ],
+        "link_basis": "Immediately follows this cue card in the supplied PDF"
+      },
+      "source_notes": [],
+      "review_flags": [],
+      "automatic_full_mock_selection": true
+    },
+    {
+      "topic": "遇到的科技问题",
+      "region": "mainland",
+      "category": "retained",
+      "source_number": 16,
+      "id": "p2-044",
+      "source_pages": [
+        33,
+        34
+      ],
+      "part2": {
+        "prompt": "Describe a challenging technological problem you faced",
+        "cue_lines": [
+          "What the problem was",
+          "When and where you faced it",
+          "How challenging it was",
+          "And explain how you solved it"
+        ],
+        "text": "Describe a challenging technological problem you faced\nYou should say:\nWhat the problem was\nWhen and where you faced it\nHow challenging it was\nAnd explain how you solved it",
+        "source_pages": [
+          34
+        ]
+      },
+      "part3": {
+        "questions": [
+          {
+            "text": "What are the advantages and disadvantages of AI?",
+            "source_pages": [
+              34
+            ]
+          },
+          {
+            "text": "Do you think people today should learn about AI technology?",
+            "source_pages": [
+              34
+            ]
+          },
+          {
+            "text": "Should children learn to use AI?",
+            "source_pages": [
+              34
+            ]
+          },
+          {
+            "text": "How can AI help in our lives?",
+            "source_pages": [
+              34
+            ]
+          },
+          {
+            "text": "Do you think students are overly reliant on AI?",
+            "source_pages": [
+              34
+            ]
+          },
+          {
+            "text": "What can teachers do to stop students from relying too much on AI?",
+            "source_pages": [
+              34
+            ]
+          }
+        ],
+        "source_pages": [
+          34
+        ],
+        "link_basis": "Immediately follows this cue card in the supplied PDF"
+      },
+      "source_notes": [],
+      "review_flags": [],
+      "automatic_full_mock_selection": true
+    },
+    {
+      "topic": "名人出演的广告",
+      "region": "mainland",
+      "category": "retained",
+      "source_number": 17,
+      "id": "p2-045",
+      "source_pages": [
+        34
+      ],
+      "part2": {
+        "prompt": "Describe an advertisement with a famous person in it",
+        "cue_lines": [
+          "Who the person is",
+          "Where you can see it",
+          "What the advertisement is about",
+          "And explain how you feel about the advertisement"
+        ],
+        "text": "Describe an advertisement with a famous person in it\nYou should say:\nWho the person is\nWhere you can see it\nWhat the advertisement is about\nAnd explain how you feel about the advertisement",
+        "source_pages": [
+          34
+        ]
+      },
+      "part3": {
+        "questions": [
+          {
+            "text": "What are the advantages and disadvantages of advertisements?",
+            "source_pages": [
+              34
+            ]
+          },
+          {
+            "text": "Why are many advertisements endorsed by celebrities? How useful are they?",
+            "source_pages": [
+              34
+            ]
+          },
+          {
+            "text": "What is the most important factor in an advertisement?",
+            "source_pages": [
+              34
+            ]
+          },
+          {
+            "text": "Why are some advertisements boring?",
+            "source_pages": [
+              34
+            ]
+          },
+          {
+            "text": "Is advertising important for a company? Why?",
+            "source_pages": [
+              34
+            ]
+          },
+          {
+            "text": "Which is more effective, online advertising or offline advertising?",
+            "source_pages": [
+              34
+            ]
+          }
+        ],
+        "source_pages": [
+          34
+        ],
+        "link_basis": "Immediately follows this cue card in the supplied PDF"
+      },
+      "source_notes": [],
+      "review_flags": [],
+      "automatic_full_mock_selection": true
+    },
+    {
+      "topic": "推荐旅行过的地方",
+      "region": "mainland",
+      "category": "retained",
+      "source_number": 18,
+      "id": "p2-046",
+      "source_pages": [
+        34,
+        35
+      ],
+      "part2": {
+        "prompt": "Describe a place you have travelled to that you would like to recommend to others",
+        "cue_lines": [
+          "What it is",
+          "Where it is",
+          "What you saw and did there",
+          "And explain why you would like to recommend it to others"
+        ],
+        "text": "Describe a place you have travelled to that you would like to recommend to others\nYou should say:\nWhat it is\nWhere it is\nWhat you saw and did there\nAnd explain why you would like to recommend it to others",
+        "source_pages": [
+          34,
+          35
+        ]
+      },
+      "part3": {
+        "questions": [
+          {
+            "text": "Where do people in your country often go for holidays?",
+            "source_pages": [
+              35
+            ]
+          },
+          {
+            "text": "What is the ideal length for a holiday?",
+            "source_pages": [
+              35
+            ]
+          },
+          {
+            "text": "How do people usually plan holidays?",
+            "source_pages": [
+              35
+            ]
+          },
+          {
+            "text": "Is it important to plan a holiday ahead?",
+            "source_pages": [
+              35
+            ]
+          },
+          {
+            "text": "Why do many countries try to attract people to visit?",
+            "source_pages": [
+              35
+            ]
+          },
+          {
+            "text": "How do people decide when to travel?",
+            "source_pages": [
+              35
+            ]
+          }
+        ],
+        "source_pages": [
+          35
+        ],
+        "link_basis": "Immediately follows this cue card in the supplied PDF"
+      },
+      "source_notes": [],
+      "review_flags": [],
+      "automatic_full_mock_selection": true
+    },
+    {
+      "topic": "喜欢拜访但不想住的家",
+      "region": "mainland",
+      "category": "retained",
+      "source_number": 19,
+      "id": "p2-047",
+      "source_pages": [
+        35
+      ],
+      "part2": {
+        "prompt": "Describe a home that you like to visit but do not want to live in",
+        "cue_lines": [
+          "Where it is",
+          "What it is like",
+          "Why you like to visit it",
+          "And explain why you would not like to live there"
+        ],
+        "text": "Describe a home that you like to visit but do not want to live in\nYou should say:\nWhere it is\nWhat it is like\nWhy you like to visit it\nAnd explain why you would not like to live there",
+        "source_pages": [
+          35
+        ]
+      },
+      "part3": {
+        "questions": [
+          {
+            "text": "Do Chinese people like to visit others’ homes?",
+            "source_pages": [
+              35
+            ]
+          },
+          {
+            "text": "What do Chinese people do when they visit others?",
+            "source_pages": [
+              35
+            ]
+          },
+          {
+            "text": "What kind of place do people in your country like to live in?",
+            "source_pages": [
+              35
+            ]
+          },
+          {
+            "text": "What's the difference between homes in cities and those in the countryside?",
+            "source_pages": [
+              35
+            ]
+          },
+          {
+            "text": "What kind of gifts do people usually bring when they visit others?",
+            "source_pages": [
+              35
+            ]
+          },
+          {
+            "text": "How often do you visit your relatives or friends?",
+            "source_pages": [
+              35
+            ]
+          }
+        ],
+        "source_pages": [
+          35
+        ],
+        "link_basis": "Immediately follows this cue card in the supplied PDF"
+      },
+      "source_notes": [],
+      "review_flags": [],
+      "automatic_full_mock_selection": true
+    },
+    {
+      "topic": "包含动物的故事或书",
+      "region": "mainland",
+      "category": "retained",
+      "source_number": 20,
+      "id": "p2-048",
+      "source_pages": [
+        35,
+        36
+      ],
+      "part2": {
+        "prompt": "Describe a story/book with animals in it",
+        "cue_lines": [
+          "What animals are in it",
+          "What the story/book is about",
+          "Why you read the story/book",
+          "And explain what you think of this story/book"
+        ],
+        "text": "Describe a story/book with animals in it\nYou should say:\nWhat animals are in it\nWhat the story/book is about\nWhy you read the story/book\nAnd explain what you think of this story/book",
+        "source_pages": [
+          35,
+          36
+        ]
+      },
+      "part3": {
+        "questions": [
+          {
+            "text": "Should schools teach children about animals?",
+            "source_pages": [
+              36
+            ]
+          },
+          {
+            "text": "Some people think pets should not be kept in cities. What do you think?",
+            "source_pages": [
+              36
+            ]
+          },
+          {
+            "text": "Many people regard pets as members of their family. What do you think?",
+            "source_pages": [
+              36
+            ]
+          },
+          {
+            "text": "Do many people keep pets in your country?",
+            "source_pages": [
+              36
+            ]
+          },
+          {
+            "text": "What are the advantages of keeping a pet?",
+            "source_pages": [
+              36
+            ]
+          },
+          {
+            "text": "Why do people always tell children stories with animals?",
+            "source_pages": [
+              36
+            ]
+          }
+        ],
+        "source_pages": [
+          36
+        ],
+        "link_basis": "Immediately follows this cue card in the supplied PDF"
+      },
+      "source_notes": [],
+      "review_flags": [],
+      "automatic_full_mock_selection": true
+    },
+    {
+      "topic": "机智解决问题的人",
+      "region": "mainland",
+      "category": "retained",
+      "source_number": 21,
+      "id": "p2-049",
+      "source_pages": [
+        36
+      ],
+      "part2": {
+        "prompt": "Describe a person who solved a problem in a smart way",
+        "cue_lines": [
+          "Who this person is",
+          "What the problem was",
+          "How he/she solved it",
+          "And explain why you think he/she did it in a smart way"
+        ],
+        "text": "Describe a person who solved a problem in a smart way\nYou should say:\nWho this person is\nWhat the problem was\nHow he/she solved it\nAnd explain why you think he/she did it in a smart way",
+        "source_pages": [
+          36
+        ]
+      },
+      "part3": {
+        "questions": [
+          {
+            "text": "Do you think smart children are happier than other children?",
+            "source_pages": [
+              36
+            ]
+          },
+          {
+            "text": "Is it important for schools to identify and develop each student’s talents?",
+            "source_pages": [
+              36
+            ]
+          },
+          {
+            "text": "Do you think children are born smart or they learn to become smart?",
+            "source_pages": [
+              36
+            ]
+          },
+          {
+            "text": "How do children become smart at school?",
+            "source_pages": [
+              36
+            ]
+          },
+          {
+            "text": "Why are some people well-rounded and others only good at one thing?",
+            "source_pages": [
+              36
+            ]
+          },
+          {
+            "text": "Why does modern society need talents of all kinds?",
+            "source_pages": [
+              36
+            ]
+          }
+        ],
+        "source_pages": [
+          36
+        ],
+        "link_basis": "Immediately follows this cue card in the supplied PDF"
+      },
+      "source_notes": [],
+      "review_flags": [],
+      "automatic_full_mock_selection": true
+    },
+    {
+      "topic": "保护环境的法律",
+      "region": "mainland",
+      "category": "retained",
+      "source_number": 22,
+      "id": "p2-050",
+      "source_pages": [
+        36,
+        37
+      ],
+      "part2": {
+        "prompt": "Describe a law on environmental protection",
+        "cue_lines": [
+          "What it is",
+          "How you first learned about it",
+          "Who benefits from it",
+          "And explain how you feel about this law"
+        ],
+        "text": "Describe a law on environmental protection\nYou should say:\nWhat it is\nHow you first learned about it\nWho benefits from it\nAnd explain how you feel about this law",
+        "source_pages": [
+          36
+        ]
+      },
+      "part3": {
+        "questions": [
+          {
+            "text": "What kinds of rules do schools in China have?",
+            "source_pages": [
+              37
+            ]
+          },
+          {
+            "text": "Do you think school rules are important?",
+            "source_pages": [
+              37
+            ]
+          },
+          {
+            "text": "Are children unhappy with the school rules?",
+            "source_pages": [
+              37
+            ]
+          },
+          {
+            "text": "How can parents and teachers help children understand and follow rules?",
+            "source_pages": [
+              37
+            ]
+          },
+          {
+            "text": "What are the rules people should obey at work?",
+            "source_pages": [
+              37
+            ]
+          },
+          {
+            "text": "What is the purpose of punishment?",
+            "source_pages": [
+              37
+            ]
+          }
+        ],
+        "source_pages": [
+          37
+        ],
+        "link_basis": "Immediately follows this cue card in the supplied PDF"
+      },
+      "source_notes": [],
+      "review_flags": [],
+      "automatic_full_mock_selection": true
+    },
+    {
+      "topic": "很久没收到回复的信息",
+      "region": "mainland",
+      "category": "retained",
+      "source_number": 23,
+      "id": "p2-051",
+      "source_pages": [
+        37
+      ],
+      "part2": {
+        "prompt": "Describe a time when you sent a message or an email to someone but received no reply for a long time",
+        "cue_lines": [
+          "Who you sent it to",
+          "What the message/email was about",
+          "Whether you finally received the reply",
+          "And explain how you felt about the experience"
+        ],
+        "text": "Describe a time when you sent a message or an email to someone but received no reply for a long time\nYou should say:\nWho you sent it to\nWhat the message/email was about\nWhether you finally received the reply\nAnd explain how you felt about the experience",
+        "source_pages": [
+          37
+        ]
+      },
+      "part3": {
+        "questions": [
+          {
+            "text": "In what situations do people spend a long time responding to others’ messages?",
+            "source_pages": [
+              37
+            ]
+          },
+          {
+            "text": "In what situations do people not respond to messages at all?",
+            "source_pages": [
+              37
+            ]
+          },
+          {
+            "text": "What would you do if you did not receive a reply after sending out a message?",
+            "source_pages": [
+              37
+            ]
+          },
+          {
+            "text": "Why do some people prefer sending a message instead of making a call?",
+            "source_pages": [
+              37
+            ]
+          },
+          {
+            "text": "How do you show your respect in your messages?",
+            "source_pages": [
+              37
+            ]
+          },
+          {
+            "text": "Why do some people feel angry when others don’t reply to their message?",
+            "source_pages": [
+              37
+            ]
+          }
+        ],
+        "source_pages": [
+          37
+        ],
+        "link_basis": "Immediately follows this cue card in the supplied PDF"
+      },
+      "source_notes": [],
+      "review_flags": [],
+      "automatic_full_mock_selection": true
+    },
+    {
+      "topic": "长久目标/抱负",
+      "region": "mainland",
+      "category": "retained",
+      "source_number": 24,
+      "id": "p2-052",
+      "source_pages": [
+        37,
+        38
+      ],
+      "part2": {
+        "prompt": "Describe a long-term goal/ambition you would like to achieve",
+        "cue_lines": [
+          "How long you have had this goal/ambition",
+          "What it is",
+          "How you will achieve it",
+          "And explain why you set it"
+        ],
+        "text": "Describe a long-term goal/ambition you would like to achieve\nYou should say:\nHow long you have had this goal/ambition\nWhat it is\nHow you will achieve it\nAnd explain why you set it",
+        "source_pages": [
+          37
+        ]
+      },
+      "part3": {
+        "questions": [
+          {
+            "text": "Why should children have ambitions?",
+            "source_pages": [
+              38
+            ]
+          },
+          {
+            "text": "What do you think of people going after high positions?",
+            "source_pages": [
+              38
+            ]
+          },
+          {
+            "text": "Why are some young people keen on being fans of superstars?",
+            "source_pages": [
+              38
+            ]
+          },
+          {
+            "text": "Is it good for a person to be ambitious?",
+            "source_pages": [
+              38
+            ]
+          },
+          {
+            "text": "Do you think it is necessary to be ambitious when working in a team in a company?",
+            "source_pages": [
+              38
+            ]
+          },
+          {
+            "text": "Should parents support their children in pursuing their ambitions?",
+            "source_pages": [
+              38
+            ]
+          }
+        ],
+        "source_pages": [
+          38
+        ],
+        "link_basis": "Immediately follows this cue card in the supplied PDF"
+      },
+      "source_notes": [],
+      "review_flags": [],
+      "automatic_full_mock_selection": true
+    },
+    {
+      "topic": "改变重要想法",
+      "region": "mainland",
+      "category": "retained",
+      "source_number": 25,
+      "id": "p2-053",
+      "source_pages": [
+        38
+      ],
+      "part2": {
+        "prompt": "Describe a time when you changed an important opinion of yours",
+        "cue_lines": [
+          "When you changed your opinion",
+          "What the original opinion was",
+          "Why you changed it",
+          "And explain how you felt about the experience"
+        ],
+        "text": "Describe a time when you changed an important opinion of yours\nYou should say:\nWhen you changed your opinion\nWhat the original opinion was\nWhy you changed it\nAnd explain how you felt about the experience",
+        "source_pages": [
+          38
+        ]
+      },
+      "part3": {
+        "questions": [
+          {
+            "text": "When do most children begin to have their own opinions?",
+            "source_pages": [
+              38
+            ]
+          },
+          {
+            "text": "Whose opinions are more important to children, their parents' or teachers'?",
+            "source_pages": [
+              38
+            ]
+          },
+          {
+            "text": "Do children communicate more with teachers or with parents?",
+            "source_pages": [
+              38
+            ]
+          },
+          {
+            "text": "Who do young people like to share opinions with?",
+            "source_pages": [
+              38
+            ]
+          }
+        ],
+        "source_pages": [
+          38
+        ],
+        "link_basis": "Immediately follows this cue card in the supplied PDF"
+      },
+      "source_notes": [],
+      "review_flags": [],
+      "automatic_full_mock_selection": true
+    },
+    {
+      "topic": "想要颁布的环保法律",
+      "region": "mainland",
+      "category": "retained",
+      "source_number": 26,
+      "id": "p2-054",
+      "source_pages": [
+        38,
+        39
+      ],
+      "part2": {
+        "prompt": "Describe an environmental law you would like your country to introduce",
+        "cue_lines": [
+          "What law it should be",
+          "Why people should follow the law",
+          "Whether the law will be popular",
+          "And explain how you feel about this law"
+        ],
+        "text": "Describe an environmental law you would like your country to introduce\nYou should say:\nWhat law it should be\nWhy people should follow the law\nWhether the law will be popular\nAnd explain how you feel about this law",
+        "source_pages": [
+          38
+        ]
+      },
+      "part3": {
+        "questions": [
+          {
+            "text": "How does technology affect the law?",
+            "source_pages": [
+              38
+            ]
+          },
+          {
+            "text": "What kinds of rules do schools in China have?",
+            "source_pages": [
+              38
+            ]
+          },
+          {
+            "text": "Will there be a law that is universally accepted?",
+            "source_pages": [
+              38
+            ]
+          },
+          {
+            "text": "What environmental laws does your country already have?",
+            "source_pages": [
+              39
+            ]
+          }
+        ],
+        "source_pages": [
+          38,
+          39
+        ],
+        "link_basis": "Immediately follows this cue card in the supplied PDF"
+      },
+      "source_notes": [],
+      "review_flags": [],
+      "automatic_full_mock_selection": true
+    },
+    {
+      "topic": "当地新闻",
+      "region": "mainland",
+      "category": "retained",
+      "source_number": 27,
+      "id": "p2-055",
+      "source_pages": [
+        39
+      ],
+      "part2": {
+        "prompt": "Describe a piece of local news that people are interested in",
+        "cue_lines": [
+          "What it was about",
+          "Where you saw/heard it",
+          "Who was involved",
+          "And explain why people were interested in it"
+        ],
+        "text": "Describe a piece of local news that people are interested in\nYou should say:\nWhat it was about\nWhere you saw/heard it\nWho was involved\nAnd explain why people were interested in it",
+        "source_pages": [
+          39
+        ]
+      },
+      "part3": {
+        "questions": [
+          {
+            "text": "Do people read the newspaper where you live?",
+            "source_pages": [
+              39
+            ]
+          },
+          {
+            "text": "Do people prefer local or international news?",
+            "source_pages": [
+              39
+            ]
+          },
+          {
+            "text": "Do you think it's important to have a national identity?",
+            "source_pages": [
+              39
+            ]
+          },
+          {
+            "text": "How can people develop their national identity?",
+            "source_pages": [
+              39
+            ]
+          }
+        ],
+        "source_pages": [
+          39
+        ],
+        "link_basis": "Immediately follows this cue card in the supplied PDF"
+      },
+      "source_notes": [],
+      "review_flags": [],
+      "automatic_full_mock_selection": true
+    },
+    {
+      "topic": "近期改变",
+      "region": "mainland",
+      "category": "retained",
+      "source_number": 28,
+      "id": "p2-056",
+      "source_pages": [
+        39
+      ],
+      "part2": {
+        "prompt": "Describe a change that you made recently",
+        "cue_lines": [
+          "What the change was",
+          "What caused the change",
+          "What you did for the change",
+          "And explain how you feel about the change"
+        ],
+        "text": "Describe a change that you made recently\nYou should say:\nWhat the change was\nWhat caused the change\nWhat you did for the change\nAnd explain how you feel about the change",
+        "source_pages": [
+          39
+        ]
+      },
+      "part3": {
+        "questions": [
+          {
+            "text": "Do you think it is good to change one’s daily routine?",
+            "source_pages": [
+              39
+            ]
+          },
+          {
+            "text": "Do you think it is good to change jobs?",
+            "source_pages": [
+              39
+            ]
+          },
+          {
+            "text": "Is it good for people to get a job promotion?",
+            "source_pages": [
+              39
+            ]
+          },
+          {
+            "text": "Do people often make plans around their regular routines?",
+            "source_pages": [
+              39
+            ]
+          },
+          {
+            "text": "Who tend to change their daily routine more, young people or old people?",
+            "source_pages": [
+              39
+            ]
+          }
+        ],
+        "source_pages": [
+          39
+        ],
+        "link_basis": "Immediately follows this cue card in the supplied PDF"
+      },
+      "source_notes": [],
+      "review_flags": [],
+      "automatic_full_mock_selection": true
+    },
+    {
+      "topic": "印象深刻的课程",
+      "region": "non_mainland",
+      "category": "new",
+      "source_number": 1,
+      "id": "p2-057",
+      "source_pages": [
+        41
+      ],
+      "part2": {
+        "prompt": "Describe a course that impressed you a lot",
+        "cue_lines": [
+          "What the course was about",
+          "Where you took the course",
+          "What you did during the course",
+          "And explain why it impressed you a lot"
+        ],
+        "text": "Describe a course that impressed you a lot\nYou should say:\nWhat the course was about\nWhere you took the course\nWhat you did during the course\nAnd explain why it impressed you a lot",
+        "source_pages": [
+          41
+        ]
+      },
+      "part3": {
+        "questions": [
+          {
+            "text": "What can we learn from history?",
+            "source_pages": [
+              41
+            ]
+          },
+          {
+            "text": "What do people need to remember in their daily lives?",
+            "source_pages": [
+              41
+            ]
+          },
+          {
+            "text": "Can technology help people remember things better? How?",
+            "source_pages": [
+              41
+            ]
+          },
+          {
+            "text": "Which can help people remember things better, words or photos?",
+            "source_pages": [
+              41
+            ]
+          },
+          {
+            "text": "Do people like things of memorial significance?",
+            "source_pages": [
+              41
+            ]
+          },
+          {
+            "text": "Why do some people have a better memory than others?",
+            "source_pages": [
+              41
+            ]
+          }
+        ],
+        "source_pages": [
+          41
+        ],
+        "link_basis": "Immediately follows this cue card in the supplied PDF"
+      },
+      "source_notes": [],
+      "review_flags": [],
+      "automatic_full_mock_selection": true
+    },
+    {
+      "topic": "改变重要决定",
+      "region": "non_mainland",
+      "category": "new",
+      "source_number": 2,
+      "id": "p2-058",
+      "source_pages": [
+        41,
+        42
+      ],
+      "part2": {
+        "prompt": "Describe a time when you changed an important decision of yours",
+        "cue_lines": [
+          "When you changed the decision",
+          "What the original decision was",
+          "Why you changed it",
+          "And explain how you felt about the experience"
+        ],
+        "text": "Describe a time when you changed an important decision of yours\nYou should say:\nWhen you changed the decision\nWhat the original decision was\nWhy you changed it\nAnd explain how you felt about the experience",
+        "source_pages": [
+          41
+        ]
+      },
+      "part3": {
+        "questions": [
+          {
+            "text": "When do most children begin to make their own decisions?",
+            "source_pages": [
+              42
+            ]
+          }
+        ],
+        "source_pages": [
+          42
+        ],
+        "link_basis": "Immediately follows this cue card in the supplied PDF"
+      },
+      "source_notes": [],
+      "review_flags": [
+        "sparse_part3"
+      ],
+      "automatic_full_mock_selection": false
+    },
+    {
+      "topic": "本地名人",
+      "region": "non_mainland",
+      "category": "new",
+      "source_number": 3,
+      "id": "p2-059",
+      "source_pages": [
+        42
+      ],
+      "part2": {
+        "prompt": "Describe a famous person in your local area",
+        "cue_lines": [
+          "Who this person is",
+          "What he/she has done",
+          "Why he/she is popular",
+          "And explain how you feel about this person"
+        ],
+        "text": "Describe a famous person in your local area\nYou should say:\nWho this person is\nWhat he/she has done\nWhy he/she is popular\nAnd explain how you feel about this person",
+        "source_pages": [
+          42
+        ]
+      },
+      "part3": {
+        "questions": [
+          {
+            "text": "Why are some students popular?",
+            "source_pages": [
+              42
+            ]
+          },
+          {
+            "text": "Is it always good to be a popular student at school?",
+            "source_pages": [
+              42
+            ]
+          }
+        ],
+        "source_pages": [
+          42
+        ],
+        "link_basis": "Immediately follows this cue card in the supplied PDF"
+      },
+      "source_notes": [],
+      "review_flags": [
+        "sparse_part3"
+      ],
+      "automatic_full_mock_selection": false
+    },
+    {
+      "topic": "想再去一次的城市",
+      "region": "non_mainland",
+      "category": "new",
+      "source_number": 4,
+      "id": "p2-060",
+      "source_pages": [
+        42
+      ],
+      "part2": {
+        "prompt": "Describe a city that you have been to and would like to visit again",
+        "cue_lines": [
+          "When you visited it",
+          "What you did there",
+          "What it was like",
+          "And explain why you would like to visit it again"
+        ],
+        "text": "Describe a city that you have been to and would like to visit again\nYou should say:\nWhen you visited it\nWhat you did there\nWhat it was like\nAnd explain why you would like to visit it again",
+        "source_pages": [
+          42
+        ]
+      },
+      "part3": {
+        "questions": [
+          {
+            "text": "What should the government do to improve citizens' safety?",
+            "source_pages": [
+              42
+            ]
+          },
+          {
+            "text": "Are there any changes in your city?",
+            "source_pages": [
+              42
+            ]
+          },
+          {
+            "text": "Do you think people in the countryside are friendlier than people in the city?",
+            "source_pages": [
+              42
+            ]
+          },
+          {
+            "text": "Do you think it is possible that all of the population move to cities?",
+            "source_pages": [
+              42
+            ]
+          },
+          {
+            "text": "Some people say large cities are suitable for old people. What do you think?",
+            "source_pages": [
+              42
+            ]
+          },
+          {
+            "text": "What's the difference between the city and the countryside?",
+            "source_pages": [
+              42
+            ]
+          }
+        ],
+        "source_pages": [
+          42
+        ],
+        "link_basis": "Immediately follows this cue card in the supplied PDF"
+      },
+      "source_notes": [],
+      "review_flags": [],
+      "automatic_full_mock_selection": true
+    },
+    {
+      "topic": "一见且想继续了解的人",
+      "region": "non_mainland",
+      "category": "new",
+      "source_number": 5,
+      "id": "p2-061",
+      "source_pages": [
+        42,
+        43
+      ],
+      "part2": {
+        "prompt": "Describe a person you only met once recently and want to know more about",
+        "cue_lines": [
+          "Who he/she is",
+          "When you met him/her",
+          "Why you want to know more about him/her",
+          "And explain how you feel about him/her"
+        ],
+        "text": "Describe a person you only met once recently and want to know more about\nYou should say:\nWho he/she is\nWhen you met him/her\nWhy you want to know more about him/her\nAnd explain how you feel about him/her",
+        "source_pages": [
+          42,
+          43
+        ]
+      },
+      "part3": {
+        "questions": [
+          {
+            "text": "What should we not talk about when we meet a person for the first time?",
+            "source_pages": [
+              43
+            ]
+          },
+          {
+            "text": "What can we do to leave a good impression on people we meet for the first time?",
+            "source_pages": [
+              43
+            ]
+          },
+          {
+            "text": "What qualities make true friends?",
+            "source_pages": [
+              43
+            ]
+          },
+          {
+            "text": "Is it important to have the same hobbies and interests when making friends?",
+            "source_pages": [
+              43
+            ]
+          },
+          {
+            "text": "On what occasions do people like to make friends?",
+            "source_pages": [
+              43
+            ]
+          },
+          {
+            "text": "How do people make friends in China?",
+            "source_pages": [
+              43
+            ]
+          }
+        ],
+        "source_pages": [
+          43
+        ],
+        "link_basis": "Immediately follows this cue card in the supplied PDF"
+      },
+      "source_notes": [],
+      "review_flags": [],
+      "automatic_full_mock_selection": true
+    },
+    {
+      "topic": "送朋友的礼物",
+      "region": "non_mainland",
+      "category": "new",
+      "source_number": 6,
+      "id": "p2-062",
+      "source_pages": [
+        43
+      ],
+      "part2": {
+        "prompt": "Describe a gift you would like to buy for your friend",
+        "cue_lines": [
+          "How you knew your friend",
+          "How long you have known him/her",
+          "How you would choose a gift for him/her",
+          "And explain why you would choose that gift for him/her"
+        ],
+        "text": "Describe a gift you would like to buy for your friend\nYou should say:\nHow you knew your friend\nHow long you have known him/her\nHow you would choose a gift for him/her\nAnd explain why you would choose that gift for him/her",
+        "source_pages": [
+          43
+        ]
+      },
+      "part3": {
+        "questions": [
+          {
+            "text": "Are there any unlucky things that people should not buy as gifts in your country?",
+            "source_pages": [
+              43
+            ]
+          },
+          {
+            "text": "Which do people give on traditional festivals, red envelopes or other kinds of gifts?",
+            "source_pages": [
+              43
+            ]
+          },
+          {
+            "text": "Will people feel happy when receiving an expensive gift?",
+            "source_pages": [
+              43
+            ]
+          },
+          {
+            "text": "Is it hard to choose a gift?",
+            "source_pages": [
+              43
+            ]
+          },
+          {
+            "text": "When do people normally send gifts to others?",
+            "source_pages": [
+              43
+            ]
+          }
+        ],
+        "source_pages": [
+          43
+        ],
+        "link_basis": "Immediately follows this cue card in the supplied PDF"
+      },
+      "source_notes": [],
+      "review_flags": [],
+      "automatic_full_mock_selection": true
+    },
+    {
+      "topic": "去过的靠近自然的地方",
+      "region": "non_mainland",
+      "category": "new",
+      "source_number": 7,
+      "id": "p2-063",
+      "source_pages": [
+        43,
+        44
+      ],
+      "part2": {
+        "prompt": "Describe somewhere near a natural place that you have been to",
+        "cue_lines": [
+          "Where this place is",
+          "Who you went there with",
+          "Why you went there",
+          "And explain how you feel about the place"
+        ],
+        "text": "Describe somewhere near a natural place that you have been to\nYou should say:\nWhere this place is\nWho you went there with\nWhy you went there\nAnd explain how you feel about the place",
+        "source_pages": [
+          43,
+          44
+        ]
+      },
+      "part3": {
+        "questions": [
+          {
+            "text": "Are there any natural attractions that are great to visit?",
+            "source_pages": [
+              44
+            ]
+          },
+          {
+            "text": "Do you think it is necessary to include natural spaces in a city?",
+            "source_pages": [
+              44
+            ]
+          },
+          {
+            "text": "Do you think people who live in natural places are more likely to protect it?",
+            "source_pages": [
+              44
+            ]
+          }
+        ],
+        "source_pages": [
+          44
+        ],
+        "link_basis": "Immediately follows this cue card in the supplied PDF"
+      },
+      "source_notes": [],
+      "review_flags": [],
+      "automatic_full_mock_selection": true
+    },
+    {
+      "topic": "公共场所丢物品",
+      "region": "non_mainland",
+      "category": "new",
+      "source_number": 8,
+      "id": "p2-064",
+      "source_pages": [
+        44
+      ],
+      "part2": {
+        "prompt": "Describe an occasion that you lost something in public",
+        "cue_lines": [
+          "What you lost",
+          "When and where you lost it",
+          "What you did to find it",
+          "And explain how you felt about it"
+        ],
+        "text": "Describe an occasion that you lost something in public\nYou should say:\nWhat you lost\nWhen and where you lost it\nWhat you did to find it\nAnd explain how you felt about it",
+        "source_pages": [
+          44
+        ]
+      },
+      "part3": {
+        "questions": [
+          {
+            "text": "What do people often feel after losing things?",
+            "source_pages": [
+              44
+            ]
+          },
+          {
+            "text": "What can we do to reduce the possibility of losing things?",
+            "source_pages": [
+              44
+            ]
+          },
+          {
+            "text": "What kinds of people may lose things often?",
+            "source_pages": [
+              44
+            ]
+          },
+          {
+            "text": "Is it effective to offer rewards to find lost things?",
+            "source_pages": [
+              44
+            ]
+          },
+          {
+            "text": "What will people do when losing things?",
+            "source_pages": [
+              44
+            ]
+          },
+          {
+            "text": "What kinds of things do people usually lose?",
+            "source_pages": [
+              44
+            ]
+          }
+        ],
+        "source_pages": [
+          44
+        ],
+        "link_basis": "Immediately follows this cue card in the supplied PDF"
+      },
+      "source_notes": [],
+      "review_flags": [],
+      "automatic_full_mock_selection": true
+    },
+    {
+      "topic": "节约时间的方法/改变",
+      "region": "non_mainland",
+      "category": "new",
+      "source_number": 9,
+      "id": "p2-065",
+      "source_pages": [
+        44,
+        45
+      ],
+      "part2": {
+        "prompt": "Describe a way/change that helps you save a lot of time",
+        "cue_lines": [
+          "What it is",
+          "How you implement it",
+          "How difficult it is",
+          "And explain how you feel about the way/change"
+        ],
+        "text": "Describe a way/change that helps you save a lot of time\nYou should say:\nWhat it is\nHow you implement it\nHow difficult it is\nAnd explain how you feel about the way/change",
+        "source_pages": [
+          44
+        ]
+      },
+      "part3": {
+        "questions": [
+          {
+            "text": "What can people do to save time?",
+            "source_pages": [
+              44
+            ]
+          },
+          {
+            "text": "Does technology help people save time? How and why?",
+            "source_pages": [
+              45
+            ]
+          },
+          {
+            "text": "Do you think parents should be responsible for teaching children to save time?",
+            "source_pages": [
+              45
+            ]
+          },
+          {
+            "text": "Do people who can manage time well become successful more easily?",
+            "source_pages": [
+              45
+            ]
+          },
+          {
+            "text": "Is it necessary for children to learn time management?",
+            "source_pages": [
+              45
+            ]
+          },
+          {
+            "text": "What can schools do to help students learn time management?",
+            "source_pages": [
+              45
+            ]
+          }
+        ],
+        "source_pages": [
+          44,
+          45
+        ],
+        "link_basis": "Immediately follows this cue card in the supplied PDF"
+      },
+      "source_notes": [],
+      "review_flags": [],
+      "automatic_full_mock_selection": true
+    },
+    {
+      "topic": "想有空时去旅游的地方",
+      "region": "non_mainland",
+      "category": "retained",
+      "source_number": 1,
+      "id": "p2-066",
+      "source_pages": [
+        46,
+        47
+      ],
+      "part2": {
+        "prompt": "Describe a place you would like to visit in your free time",
+        "cue_lines": [
+          "Where it is",
+          "What you will do there",
+          "How long you will stay there",
+          "And explain why you would like to visit it"
+        ],
+        "text": "Describe a place you would like to visit in your free time\nYou should say:\nWhere it is\nWhat you will do there\nHow long you will stay there\nAnd explain why you would like to visit it",
+        "source_pages": [
+          46,
+          47
+        ]
+      },
+      "part3": {
+        "questions": [
+          {
+            "text": "Why do you think some people choose not to travel abroad?",
+            "source_pages": [
+              47
+            ]
+          },
+          {
+            "text": "Do you think a gap period in life is important?",
+            "source_pages": [
+              47
+            ]
+          }
+        ],
+        "source_pages": [
+          47
+        ],
+        "link_basis": "Immediately follows this cue card in the supplied PDF"
+      },
+      "source_notes": [
+        {
+          "text": "待补充",
+          "page": 47
+        }
+      ],
+      "review_flags": [
+        "sparse_part3",
+        "source_marked_pending"
+      ],
+      "automatic_full_mock_selection": false
+    },
+    {
+      "topic": "收到特殊蛋糕",
+      "region": "non_mainland",
+      "category": "retained",
+      "source_number": 2,
+      "id": "p2-067",
+      "source_pages": [
+        47
+      ],
+      "part2": {
+        "prompt": "Describe a special cake you received from others",
+        "cue_lines": [
+          "When it happened",
+          "Where it happened",
+          "Who you got the cake from",
+          "And explain why it’s a special cake"
+        ],
+        "text": "Describe a special cake you received from others\nYou should say:\nWhen it happened\nWhere it happened\nWho you got the cake from\nAnd explain why it’s a special cake",
+        "source_pages": [
+          47
+        ]
+      },
+      "part3": {
+        "questions": [
+          {
+            "text": "What are the differences between special food in China and other countries?",
+            "source_pages": [
+              47
+            ]
+          },
+          {
+            "text": "Is there any food in your country that is eaten at special times or on special occasions?",
+            "source_pages": [
+              47
+            ]
+          },
+          {
+            "text": "Why are some people willing to spend a lot of money on meals on special days?",
+            "source_pages": [
+              47
+            ]
+          },
+          {
+            "text": "Do you think it’s good to communicate when eating with your family?",
+            "source_pages": [
+              47
+            ]
+          },
+          {
+            "text": "In your country, do people nowadays cook at home as frequently as people did in the past?",
+            "source_pages": [
+              47
+            ]
+          },
+          {
+            "text": "What do you think of people using their mobile phones during a meal?",
+            "source_pages": [
+              47
+            ]
+          }
+        ],
+        "source_pages": [
+          47
+        ],
+        "link_basis": "Immediately follows this cue card in the supplied PDF"
+      },
+      "source_notes": [],
+      "review_flags": [],
+      "automatic_full_mock_selection": true
+    },
+    {
+      "topic": "在成功公司工作的人",
+      "region": "non_mainland",
+      "category": "retained",
+      "source_number": 3,
+      "id": "p2-068",
+      "source_pages": [
+        47,
+        48
+      ],
+      "part2": {
+        "prompt": "Describe a person who works in a successful company",
+        "cue_lines": [
+          "Who he/she is",
+          "What he/she does in the company",
+          "What business the company does",
+          "And explain why you think it is a successful company"
+        ],
+        "text": "Describe a person who works in a successful company\nYou should say:\nWho he/she is\nWhat he/she does in the company\nWhat business the company does\nAnd explain why you think it is a successful company",
+        "source_pages": [
+          47,
+          48
+        ]
+      },
+      "part3": {
+        "questions": [
+          {
+            "text": "Do you think governments should provide financial support to companies?",
+            "source_pages": [
+              48
+            ]
+          },
+          {
+            "text": "Do you think companies should donate money to help society?",
+            "source_pages": [
+              48
+            ]
+          },
+          {
+            "text": "Do you think customer satisfaction is important for a company?",
+            "source_pages": [
+              48
+            ]
+          }
+        ],
+        "source_pages": [
+          48
+        ],
+        "link_basis": "Immediately follows this cue card in the supplied PDF"
+      },
+      "source_notes": [],
+      "review_flags": [],
+      "automatic_full_mock_selection": true
+    },
+    {
+      "topic": "语言学习",
+      "region": "non_mainland",
+      "category": "retained",
+      "source_number": 4,
+      "id": "p2-069",
+      "source_pages": [
+        48
+      ],
+      "part2": {
+        "prompt": "Describe a thing you did to learn another language",
+        "cue_lines": [
+          "What language you learned",
+          "What you did",
+          "How it helped you learn the language",
+          "And how you felt about it"
+        ],
+        "text": "Describe a thing you did to learn another language\nYou should say:\nWhat language you learned\nWhat you did\nHow it helped you learn the language\nAnd how you felt about it",
+        "source_pages": [
+          48
+        ]
+      },
+      "part3": {
+        "questions": [
+          {
+            "text": "What difficulties do people face when learning a language?",
+            "source_pages": [
+              48
+            ]
+          },
+          {
+            "text": "Do you think language learning is important? Why?",
+            "source_pages": [
+              48
+            ]
+          },
+          {
+            "text": "Which is better, to study a language alone or to study it in a group? Why?",
+            "source_pages": [
+              48
+            ]
+          },
+          {
+            "text": "What's the best way to learn a language?",
+            "source_pages": [
+              48
+            ]
+          },
+          {
+            "text": "What are the advantages and disadvantages of learning a language?",
+            "source_pages": [
+              48
+            ]
+          },
+          {
+            "text": "Some people think that technology has made it unnecessary to learn languages. What do you think?",
+            "source_pages": [
+              48
+            ]
+          }
+        ],
+        "source_pages": [
+          48
+        ],
+        "link_basis": "Immediately follows this cue card in the supplied PDF"
+      },
+      "source_notes": [],
+      "review_flags": [],
+      "automatic_full_mock_selection": true
+    },
+    {
+      "topic": "重要河流/湖泊",
+      "region": "non_mainland",
+      "category": "retained",
+      "source_number": 5,
+      "id": "p2-070",
+      "source_pages": [
+        48,
+        49
+      ],
+      "part2": {
+        "prompt": "Describe an important river/lake in your country",
+        "cue_lines": [
+          "Where it is located",
+          "How big/long it is",
+          "What it looks like",
+          "And explain why it is important"
+        ],
+        "text": "Describe an important river/lake in your country\nYou should say:\nWhere it is located\nHow big/long it is\nWhat it looks like\nAnd explain why it is important",
+        "source_pages": [
+          48
+        ]
+      },
+      "part3": {
+        "questions": [
+          {
+            "text": "Are rivers and lakes important to a country?",
+            "source_pages": [
+              48
+            ]
+          },
+          {
+            "text": "What are the popular water sports in your country?",
+            "source_pages": [
+              49
+            ]
+          },
+          {
+            "text": "Are rivers and lakes good for transport? Why?",
+            "source_pages": [
+              49
+            ]
+          },
+          {
+            "text": "How do rivers and lakes affect local tourism?",
+            "source_pages": [
+              49
+            ]
+          },
+          {
+            "text": "Do you think rivers and lakes attract tourists?",
+            "source_pages": [
+              49
+            ]
+          },
+          {
+            "text": "How can rivers and lakes benefit local people?",
+            "source_pages": [
+              49
+            ]
+          }
+        ],
+        "source_pages": [
+          48,
+          49
+        ],
+        "link_basis": "Immediately follows this cue card in the supplied PDF"
+      },
+      "source_notes": [],
+      "review_flags": [],
+      "automatic_full_mock_selection": true
+    },
+    {
+      "topic": "花费甚少的外出日",
+      "region": "non_mainland",
+      "category": "retained",
+      "source_number": 6,
+      "id": "p2-071",
+      "source_pages": [
+        49
+      ],
+      "part2": {
+        "prompt": "Describe a special day out that cost you little money/didn’t cost you much",
+        "cue_lines": [
+          "When the day was",
+          "Where you went",
+          "How much you spent",
+          "And explain how you feel about the day"
+        ],
+        "text": "Describe a special day out that cost you little money/didn’t cost you much\nYou should say:\nWhen the day was\nWhere you went\nHow much you spent\nAnd explain how you feel about the day",
+        "source_pages": [
+          49
+        ]
+      },
+      "part3": {
+        "questions": [
+          {
+            "text": "Do people like to spend their leisure time out in your country?",
+            "source_pages": [
+              49
+            ]
+          },
+          {
+            "text": "How do people spend their leisure time in your country?",
+            "source_pages": [
+              49
+            ]
+          },
+          {
+            "text": "How does technology affect the way people spend their leisure time?",
+            "source_pages": [
+              49
+            ]
+          },
+          {
+            "text": "Do you think only old people have time for leisure?",
+            "source_pages": [
+              49
+            ]
+          },
+          {
+            "text": "Why do people like to have days off?",
+            "source_pages": [
+              49
+            ]
+          },
+          {
+            "text": "Going out to have holidays is tiring. Why do people still want to do it?",
+            "source_pages": [
+              49
+            ]
+          }
+        ],
+        "source_pages": [
+          49
+        ],
+        "link_basis": "Immediately follows this cue card in the supplied PDF"
+      },
+      "source_notes": [],
+      "review_flags": [],
+      "automatic_full_mock_selection": true
+    },
+    {
+      "topic": "组织快乐活动",
+      "region": "non_mainland",
+      "category": "retained",
+      "source_number": 7,
+      "id": "p2-072",
+      "source_pages": [
+        49,
+        50
+      ],
+      "part2": {
+        "prompt": "Describe a time when you organized a happy event successfully",
+        "cue_lines": [
+          "What the event was",
+          "How you prepared for it",
+          "Who helped you to organize it",
+          "And explain why you think it was a successful event"
+        ],
+        "text": "Describe a time when you organized a happy event successfully\nYou should say:\nWhat the event was\nHow you prepared for it\nWho helped you to organize it\nAnd explain why you think it was a successful event",
+        "source_pages": [
+          49
+        ]
+      },
+      "part3": {
+        "questions": [
+          {
+            "text": "How can parents help children to be organized?",
+            "source_pages": [
+              49
+            ]
+          },
+          {
+            "text": "On what occasions do people need to be organized?",
+            "source_pages": [
+              49
+            ]
+          },
+          {
+            "text": "Does everything need to be well prepared?",
+            "source_pages": [
+              49
+            ]
+          },
+          {
+            "text": "Do people need others’ help when organizing things?",
+            "source_pages": [
+              50
+            ]
+          },
+          {
+            "text": "How would you feel when you were not well prepared for something?",
+            "source_pages": [
+              50
+            ]
+          },
+          {
+            "text": "Do you prefer to prepare and organize an activity or just take part in an activity?",
+            "source_pages": [
+              50
+            ]
+          }
+        ],
+        "source_pages": [
+          49,
+          50
+        ],
+        "link_basis": "Immediately follows this cue card in the supplied PDF"
+      },
+      "source_notes": [],
+      "review_flags": [],
+      "automatic_full_mock_selection": true
+    },
+    {
+      "topic": "交通拥堵",
+      "region": "non_mainland",
+      "category": "retained",
+      "source_number": 8,
+      "id": "p2-073",
+      "source_pages": [
+        50
+      ],
+      "part2": {
+        "prompt": "Describe a time when you were stuck in a traffic jam for a very long time",
+        "cue_lines": [
+          "When it happened",
+          "Where you were stuck",
+          "What you did while waiting",
+          "And explain how you felt in the traffic jam"
+        ],
+        "text": "Describe a time when you were stuck in a traffic jam for a very long time\nYou should say:\nWhen it happened\nWhere you were stuck\nWhat you did while waiting\nAnd explain how you felt in the traffic jam",
+        "source_pages": [
+          50
+        ]
+      },
+      "part3": {
+        "questions": [
+          {
+            "text": "How can we solve the traffic jam problem?",
+            "source_pages": [
+              50
+            ]
+          },
+          {
+            "text": "Do you think developing public transport can solve traffic jam problems?",
+            "source_pages": [
+              50
+            ]
+          },
+          {
+            "text": "Do you think the high ways will help reduce traffic jams?",
+            "source_pages": [
+              50
+            ]
+          },
+          {
+            "text": "What are good ways to manage traffic?",
+            "source_pages": [
+              50
+            ]
+          },
+          {
+            "text": "Do you like to use public transport?",
+            "source_pages": [
+              50
+            ]
+          },
+          {
+            "text": "Would you rather be in a car or a bus in a traffic jam?",
+            "source_pages": [
+              50
+            ]
+          }
+        ],
+        "source_pages": [
+          50
+        ],
+        "link_basis": "Immediately follows this cue card in the supplied PDF"
+      },
+      "source_notes": [],
+      "review_flags": [],
+      "automatic_full_mock_selection": true
+    }
+  ]
+}

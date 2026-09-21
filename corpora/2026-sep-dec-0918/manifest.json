@@ -1,0 +1,163 @@
+{
+  "schema_version": 1,
+  "id": "2026-sep-dec-0918",
+  "title": "2026年9-12月最新雅思口语题库（0918版）",
+  "season": "2026年9-12月",
+  "source_edition_note": "截止 9.18 9:37",
+  "imported_on": "2026-09-20",
+  "source": {
+    "file": "source.pdf",
+    "original_filename": "2026年9-12月最新雅思口语题库-0918.pdf",
+    "sha256": "a1575dbf746cc72784dcf2fc1b06981a10d34ae9f9a1cb3fed496836aadf7d2e",
+    "page_count": 51,
+    "provenance": "User-supplied third-party compilation; publisher shown as 雅思哥; seasonal and regional labels retained from the document, not independently certified by IELTS"
+  },
+  "files": {
+    "structured": "questions.json",
+    "readable": "questions.md",
+    "report": "IMPORT_REPORT.md"
+  },
+  "counts": {
+    "part1_topics": 46,
+    "part1_questions": 274,
+    "part2_cards": 73,
+    "part3_groups": 73,
+    "part3_entries": 394,
+    "part3_questions": 393,
+    "automatic_full_mock_pairs": 68
+  },
+  "groups": [
+    {
+      "region": "mainland",
+      "category": "new",
+      "part1_topics": 11,
+      "part1_questions": 48,
+      "part2_cards": 28,
+      "part3_entries": 153,
+      "part3_questions": 152,
+      "automatic_full_mock_pairs": 26
+    },
+    {
+      "region": "mainland",
+      "category": "retained",
+      "part1_topics": 16,
+      "part1_questions": 84,
+      "part2_cards": 28,
+      "part3_entries": 159,
+      "part3_questions": 159,
+      "automatic_full_mock_pairs": 28
+    },
+    {
+      "region": "mainland",
+      "category": "evergreen",
+      "part1_topics": 5,
+      "part1_questions": 72,
+      "part2_cards": 0,
+      "part3_entries": 0,
+      "part3_questions": 0,
+      "automatic_full_mock_pairs": 0
+    },
+    {
+      "region": "non_mainland",
+      "category": "new",
+      "part1_topics": 6,
+      "part1_questions": 31,
+      "part2_cards": 9,
+      "part3_entries": 41,
+      "part3_questions": 41,
+      "automatic_full_mock_pairs": 7
+    },
+    {
+      "region": "non_mainland",
+      "category": "retained",
+      "part1_topics": 8,
+      "part1_questions": 39,
+      "part2_cards": 8,
+      "part3_entries": 41,
+      "part3_questions": 41,
+      "automatic_full_mock_pairs": 7
+    }
+  ],
+  "review_flags": [
+    {
+      "id": "p2-010",
+      "topic": "喜欢拍照的人",
+      "flag": "part3_statement_without_question",
+      "source_pages": [
+        12
+      ],
+      "part3_question_count": 6
+    },
+    {
+      "id": "p2-020",
+      "topic": "不喜欢的电影",
+      "flag": "review_cue_wording_missing_subject",
+      "source_pages": [
+        16,
+        17
+      ],
+      "part3_question_count": 6
+    },
+    {
+      "id": "p2-026",
+      "topic": "帮别人提升健康",
+      "flag": "sparse_part3",
+      "source_pages": [
+        19
+      ],
+      "part3_question_count": 2
+    },
+    {
+      "id": "p2-058",
+      "topic": "改变重要决定",
+      "flag": "sparse_part3",
+      "source_pages": [
+        41,
+        42
+      ],
+      "part3_question_count": 1
+    },
+    {
+      "id": "p2-059",
+      "topic": "本地名人",
+      "flag": "sparse_part3",
+      "source_pages": [
+        42
+      ],
+      "part3_question_count": 2
+    },
+    {
+      "id": "p2-066",
+      "topic": "想有空时去旅游的地方",
+      "flag": "sparse_part3",
+      "source_pages": [
+        46,
+        47
+      ],
+      "part3_question_count": 2
+    },
+    {
+      "id": "p2-066",
+      "topic": "想有空时去旅游的地方",
+      "flag": "source_marked_pending",
+      "source_pages": [
+        46,
+        47
+      ],
+      "part3_question_count": 2
+    }
+  ],
+  "scopes": {
+    "mainland": {
+      "regions": [
+        "mainland"
+      ]
+    },
+    "all": {
+      "regions": [
+        "mainland",
+        "non_mainland"
+      ]
+    }
+  }
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "IELTS 口语模拟考官"
+  short_description: "Voice-led IELTS Speaking mock exam with your question bank"
+  default_prompt: "使用 $ielts-speaking-examiner，自动加载安装包中的当前题库；我会手动开启 Voice，请全英主持完整口语考试，Part 1 和 Part 3 各至少问 4 个正式问题，结束后按三个 Part 和四项评分标准用中文详细点评、评分并总结表达。"

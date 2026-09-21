@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "active_corpus_id": "2026-sep-dec-0918",
+  "default_scope": "mainland",
+  "scope_preference_source": "User selected mainland exam topics in this conversation on 2026-09-20",
+  "corpora": [
+    {
+      "id": "2026-sep-dec-0918",
+      "title": "2026年9-12月最新雅思口语题库（0918版）",
+      "manifest": "2026-sep-dec-0918/manifest.json"
+    }
+  ]
+}
