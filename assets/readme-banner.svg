@@ -1,6 +1,6 @@
 <svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">IELTS Speaking Examiner</title>
-  <desc id="desc">A microphone, voice waveform, and cards for IELTS Speaking Part 1, Part 2, and Part 3.</desc>
+  <title id="title">IELTS Speaking Coach and Examiner</title>
+  <desc id="desc">Voice coaching and complete mock exams using shared question banks, illustrated with a microphone, waveform, and IELTS Speaking Part 1, Part 2, and Part 3 cards.</desc>
   <defs>
     <linearGradient id="bg" x1="70" y1="25" x2="1130" y2="340" gradientUnits="userSpaceOnUse">
       <stop stop-color="#071B33"/>
@@ -43,8 +43,8 @@
   </g>
 
   <text x="317" y="195" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="55" font-weight="760" letter-spacing="-1.8">IELTS Speaking</text>
-  <text x="317" y="250" fill="#A5F3FC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="34" font-weight="650" letter-spacing="4">EXAMINER</text>
-  <text x="319" y="291" fill="#D7F9F5" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="450">Full mock exams · Replaceable corpora · Evidence-based feedback</text>
+  <text x="317" y="250" fill="#A5F3FC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="28" font-weight="650" letter-spacing="2">COACH + EXAMINER</text>
+  <text x="319" y="291" fill="#D7F9F5" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" font-weight="450">Voice coaching · Complete mocks · Shared question banks</text>
 
   <g filter="url(#shadow)" font-family="Inter, Segoe UI, Arial, sans-serif">
     <g transform="translate(925 72) rotate(-4)">

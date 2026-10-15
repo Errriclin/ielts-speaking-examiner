@@ -1,6 +1,6 @@
-# 将 IELTS Speaking Examiner 开源到 GitHub
+# 将 IELTS 口语陪练与模考 Skill 发布到 GitHub
 
-这份教程适合第一次发布 GitHub 项目。推荐先完成版权检查，再创建公开仓库和 Release。
+这份教程适合首次发布和后续升级。项目现在包含语音陪练与完整模考两个模式，共用一套可更新题库。推荐先完成版权检查，再创建公开仓库和 Release。
 
 ## 1. 决定哪些内容可以公开
 
@@ -51,8 +51,11 @@ LICENSE
 - README 图片能显示，内部相对链接能打开。
 - `SKILL.md` 位于仓库根目录。
 - 没有身份证、账号、绝对本机路径、访问令牌或其他个人信息。
+- 没有 `practice-data/`、`history.jsonl`、考生回答或个人训练记录；这些内容不属于安装包。
 - 没有无授权的 PDF、题目全文、出版社图片或付费内容。
 - 活动题库的 `index.json`、`manifest.json` 和实际文件互相匹配。
+- 两种模式共用 `corpora/index.json`，没有另一套陪练专用默认题库。
+- `references/coaching.md`、`exam.md`、`assessment.md`、`history.md`、`corpora.md` 都已包含且链接有效。
 - ZIP 解压后只有一个清晰的 `ielts-speaking-examiner/` 顶层目录。
 
 ## 4. 创建 GitHub 仓库
@@ -65,7 +68,7 @@ LICENSE
 4. Description 可以填写：
 
    ```text
-   A Voice-first IELTS Speaking mock examiner Skill with replaceable question banks and evidence-based feedback.
+   An IELTS Speaking Skill with voice coaching, complete mock exams, shared replaceable question banks, and evidence-based feedback.
    ```
 
 5. 选择 **Public**。
@@ -111,28 +114,37 @@ git push -u origin main
   language-learning
   chatgpt
   codex
-  voice
+  voice-input
+  voice-coaching
   skill
   english-learning
   ```
 
 确认仓库首页能正常显示 README 横幅、徽章、Mermaid 流程图和目录链接。
 
-## 6. 创建首个 Release
+## 6. 创建 Release
 
 1. 在仓库首页选择 **Releases → Draft a new release**。
-2. 创建标签，例如 `v1.0.0`。
-3. Release title 填写 `IELTS Speaking Examiner v1.0.0`。
+2. 创建未使用过的新标签。若当前正式版为 `v1.0.x`，可用 `v1.1.0` 表示本次双模式功能升级；已有更高版本时按实际版本递增。
+3. Release title 可以填写 `IELTS Speaking Examiner — Voice Coach + Mock Exams`。
 4. Release notes 可写：
 
    ```markdown
    ## Highlights
 
-   - Complete IELTS Speaking Part 1/2/3 flow in Voice
-   - Replaceable packaged question-bank format
-   - Minimum 4, normally 5 primary questions in Part 1 and Part 3
-   - Detailed four-criterion feedback for every part
+   - New COACH mode: answer, receive 1–2 corrections, retry, and transfer the improvement to a new question
+   - Continuous Voice supported for coaching, with evidence-aware feedback and a concise Chinese recap
+   - Preserved MOCK mode: three opening questions, Part 1/2/3, and exactly 11 accepted primary questions across Part 1 and Part 3 (6+5 or 5+6)
+   - Both modes use the same replaceable packaged question bank
+   - Mock capability checks use actual answer coverage and ledger continuity; Voice labels alone do not determine support
+   - Optional staged mocks with progress checks; no corrections before the exam ends
+   - Independent attempts and scoring evidence when changing modes
+   - Optional project-local history for avoiding recent mock questions and revisiting weak areas; personal history is excluded from this package
    - Cross-platform user-level installation
+
+   ## Verification scope
+
+   Package and instruction checks do not certify uninterrupted live Voice exam performance. Check the documented validation results for this release.
    ```
 
 5. 上传可公开分发的安装 ZIP。
@@ -146,11 +158,14 @@ Release 页面中保留以下最短说明：
 ```text
 1. Download and extract ielts-speaking-examiner.zip.
 2. Copy the folder to ~/.agents/skills/ielts-speaking-examiner.
-3. Restart the ChatGPT desktop app.
-4. Run: $ielts-speaking-examiner 使用当前题库，开始完整口语模拟。
+3. Open a new task in a host that supports local Skills; restart the app if the updated Skill is not shown.
+4. Coaching: $ielts-speaking-examiner 使用当前题库，进入语音陪练模式，练习 Part 1，重点改善答案展开。
+5. Mock: $ielts-speaking-examiner 使用当前题库，开始完整口语模拟，考后用中文点评。
 ```
 
 Windows 的 `~` 对应 `%USERPROFILE%`。
+
+升级时替换整个 Skill 文件夹，避免同名的新旧副本共存。用户自行导入过题库时，先保留这些独立题库数据，再按新版数据约定恢复。个人训练历史保存在 Skill 目录之外，无需放入安装包，也不会随安装自动云同步。
 
 ## 8. 后续版本维护
 
@@ -163,11 +178,13 @@ Windows 的 `~` 对应 `%USERPROFILE%`。
 每次更新：
 
 1. 修改源 Skill。
-2. 校验流程规则和题库引用。
+2. 校验模式路由、陪练循环、模考完成条件、换题和评分隔离，以及共同题库引用。
 3. 重新生成 ZIP。
 4. 在干净目录解压测试。
 5. 提交 GitHub 变更。
 6. 新建标签和 Release，并说明迁移事项。
+
+双模式版本建议至少验证：明确陪练、明确模考、含糊请求、陪练中换题、陪练切到模考、11 题模考换套、只有尾部转录、无音频评分和历史文件缺失。检查应区分文档/场景检查与真人连续 Voice 实测，不把前者写成后者已通过。
 
 ## 9. 推荐的 Issue 模板信息
 
@@ -175,6 +192,7 @@ Windows 的 `~` 对应 `%USERPROFILE%`。
 
 - 应用和操作系统版本；
 - 使用的 Skill 版本与题库版本；
+- 当前模式（COACH / MOCK）、连续 Voice 或逐条消息、是否分段；
 - 问题发生在 Part 1、Part 2、Part 3 还是反馈阶段；
 - 实际发生的行为；
 - 期望行为；

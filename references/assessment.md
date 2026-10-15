@@ -1,6 +1,8 @@
 # Post-examination assessment
 
-Read once during setup; apply after the exam has closed. Assess the candidate's actual performance throughout the test, not reference answers, setup conversation, previous attempts, or a few isolated mistakes. Identify the result as a **mock Speaking estimate**, never an official IELTS result.
+For `MOCK`, read once during setup and apply the full report only after the exam has closed. Assess the candidate's actual performance throughout the active accepted attempt, not reference answers, setup conversation, previous attempts, or coached retries. Identify the result as a **mock Speaking estimate**, never an official IELTS result.
+
+For `COACH`, use the evidence restrictions and criterion definitions here, but follow [coaching.md](coaching.md) for immediate feedback and the end-of-session review. Do not apply the mock's ban on mid-session feedback, per-Part report, or required overall band to coaching. Give a coaching score only on explicit request and sufficient evidence, label it a diagnostic practice estimate, and separate unaided answers from corrected retries. A completed coaching cycle is not a completed mock.
 
 ## Evidence first
 
@@ -9,16 +11,16 @@ Distinguish evidence you actually received:
 | Available evidence | Permitted assessment |
 | --- | --- |
 | Audible performance available to the assessing model, with sufficient speech across the test | Assess all four criteria, attaching concrete observations. |
-| Transcript only, even when the user spoke in Voice | Assess vocabulary, grammar, and observable organisation; pronunciation is unavailable and the acoustic aspects of fluency are unassessed. Do not give a complete Fluency and Coherence band or an overall Speaking band. |
-| Incomplete, corrupted, very short, or materially missing answers | Give only the supported observations or provisional criterion estimates. Mark missing criteria unavailable; do not fabricate a full-test band. |
+| Transcript only, even when the user spoke in Voice | Assess transcript-supported Fluency & Coherence, Lexical Resource, and Grammatical Range & Accuracy. Omit Pronunciation from scored criteria. For a completed `MOCK`, give the required three-criterion provisional overall prediction with a clear technical limitation; for `COACH`, provide descriptive feedback unless a supported diagnostic estimate was explicitly requested. |
+| Incomplete, corrupted, very short, or materially missing answers | Use the surviving language evidence. Give a clearly provisional numerical overall prediction only when all three transcript-supported criteria can still be estimated; otherwise explain which evidence is missing. Identify the missing coverage and do not present the attempt as a completed mock. |
 
 The fact that Voice was enabled does not establish which model received audio. Keep the assessment with the model that actually heard the performance where the host permits. If audio access is unknown, treat it as unavailable for a new acoustic assessment. A transferred audio sample can support assessment only when the receiving model can actually hear it. Another agent's written sound observations, even with a source label, are not equivalent to receiving the audio.
 
 A completed, evidence-supported assessment already made by the model that heard the performance may be relayed with attribution as that model's earlier assessment; it is not a new independent assessment by a text-only agent. Do not invent missing scores, upgrade tentative notes into scores, or claim to have heard audio that was not received.
 
-Transcription can remove fillers and hesitations or change words. Never infer pronunciation errors from spelling, transcript punctuation, or a recogniser's mistake; never infer speech rate from text length. Quote wording only when it is actually available and sufficiently reliable. If wording is uncertain, paraphrase and identify the uncertainty. No invented quotes, timestamps, or audio measurements.
+Transcription can remove fillers and hesitations or change words. Never infer pronunciation errors from spelling, transcript punctuation, or a recogniser's mistake; never infer speech rate from text length. In transcript-only scoring, judge Fluency & Coherence only from observable organisation, progression, relevance, development, repetition of ideas, and linking visible in the transcript; state that pace, hesitation, and delivery were unavailable. Quote wording only when it is actually available and sufficiently reliable. If wording is uncertain, paraphrase and identify the uncertainty. No invented quotes, timestamps, or audio measurements.
 
-## Apply the four criteria
+## Apply the criteria supported by the evidence
 
 Use the public IELTS assessment criteria and band descriptors as the calibration basis. These short reminders identify evidence to collect; they are not a replacement descriptor table:
 
@@ -27,19 +29,21 @@ Use the public IELTS assessment criteria and band descriptors as the calibration
 - **Grammatical Range and Accuracy:** variety and control of simple and complex structures; consider error patterns and their effect on communication.
 - **Pronunciation:** intelligibility and control of sounds, word stress, rhythm, and intonation, supported by actual audio. A particular native accent is not the goal.
 
-Judge the official-style result across all three parts. IELTS does not publish separate Part 1/2/3 scores, so any numerical estimate shown for an individual part must be labelled **训练诊断分 / diagnostic practice estimate**. Use these part estimates to locate strengths and weaknesses; never average them to produce the overall Speaking estimate. For the whole-test result, the four criteria have equal weight and Part 3 has no extra numerical weight. Do not grade factual knowledge, opinions, sophistication of life experience, or conformity to a model answer. Do not impose fixed deductions for a brief answer, a missed cue-card bullet, a request to repeat, or technical faults; explain how observable language performance affects a criterion instead.
+Judge the official-style result across all three parts. IELTS does not publish separate Part 1/2/3 scores, so any numerical estimate shown for an individual part must be labelled **训练诊断分 / diagnostic practice estimate**. Use these part estimates to locate strengths and weaknesses; never average them to produce the overall Speaking estimate. When audio is available, the four official criteria have equal weight; when it is not, use the separately labelled three-criterion practice forecast defined below. Part 3 has no extra numerical weight. Do not grade factual knowledge, opinions, sophistication of life experience, or conformity to a model answer. Do not impose fixed deductions for a brief answer, a missed cue-card bullet, a request to repeat, or technical faults; explain how observable language performance affects a criterion instead.
 
 If a specific descriptor distinction cannot be recalled reliably, consult the official source when accessible after the exam. If unavailable, state calibration uncertainty and prefer a defensible range over a claim of exact official calibration. Routine use does not require browsing or downloading anything.
 
 ## Report the estimate transparently
 
-For a complete, adequately evidenced voice mock:
+For a complete mock with audible evidence:
 
-1. Give a defensible whole-band estimate for each criterion, explaining borderline evidence in the rationale. These are simulated judgments anchored to the public descriptors.
+1. Give a defensible numerical band estimate for each criterion, using whole or half-band steps and explaining borderline evidence in the rationale. These are simulated judgments anchored to the public descriptors.
 2. Compute the equally weighted mean: `(FC + LR + GRA + P) / 4`.
 3. Display the estimated Speaking band in half-band steps using nearest-half rounding, with exact ties rounded upward. **This is this skill's display convention for a mock estimate, not a claim about IELTS's unpublished Speaking rounding procedures.** Label it as an estimate; add a range if evidence makes a single band misleading. Do not report a statistical confidence percentage.
 
-If any criterion is unavailable, omit the mean and overall band. Never insert zero for a missing criterion or average the remaining criteria as if the result were an overall Speaking score. A stopped test is incomplete, not an automatic Band 0. After an explicit request for partial feedback, supply useful supported feedback without presenting it as a completed full test.
+For a complete transcript-only mock, Pronunciation is outside the calculation. Give half-band numerical estimates for transcript-supported Fluency & Coherence, Lexical Resource, and Grammatical Range & Accuracy; compute `(FC-transcript + LR + GRA) / 3`; and display the result in half-band steps with exact ties rounded upward. Label it **预测口语总分（限三项文字证据） / provisional Speaking prediction based on three transcript-supported criteria**. State once that this is a practice forecast, not the official four-criterion IELTS formula, and that an actual pronunciation result could move the real score. Do not insert a zero or guessed Pronunciation score.
+
+Every completed mock report must include one numerical predicted overall Speaking band. Use the four-criterion estimate when audio is available and the three-criterion limited-evidence estimate otherwise. If the candidate explicitly stops an incomplete attempt, give a numerical provisional prediction only when the available sample supports estimates for FC-transcript, LR, and GRA; label the missing-part limitation prominently and never call the attempt complete. A stopped test is not an automatic Band 0. If a technical failure leaves no usable language evidence for one of those three criteria, a numerical prediction would be fabricated; explain that exceptional failure instead of inventing a score.
 
 ## Feedback output
 
@@ -47,22 +51,18 @@ Default to Chinese explanations with original English examples, unless the user 
 
 ### 1. Overall result and evidence basis
 
-State whether the mock and each section were complete. Report the estimated overall Speaking band and the four whole-test criterion bands when supported. State whether the assessment used audible performance or transcript evidence, plus any timing, interruption, or missing-audio limitation. If pronunciation or a complete overall band is unavailable, write “无法评估 / Not assessed” rather than guessing.
+State whether the mock and each section were complete. Always report the applicable numerical predicted overall Speaking band for a completed mock. With audible evidence, report all four whole-test criterion bands and the four-criterion estimate. With transcript-only evidence, report FC-transcript, LR, GRA, and the three-criterion limited-evidence prediction; mention the missing pronunciation evidence once in this overall section. Do not list Pronunciation as a scored criterion when it was unavailable. State the evidence source plus any timing, interruption, or missing-part limitation.
 
 ### 2. Part-by-part diagnostic review
 
 Create separate sections for **Part 1**, **Part 2**, and **Part 3**. In every section:
 
-1. Give a clearly labelled **训练诊断分 / diagnostic practice estimate** when the available evidence supports it. This is not an official per-part IELTS score and is not used to calculate the overall result.
-2. Comment separately on all four criteria in this fixed order:
-   - Fluency & Coherence
-   - Lexical Resource
-   - Grammatical Range & Accuracy
-   - Pronunciation
-3. For each criterion, give the diagnostic band or “无法评估,” then concrete evidence from that part and its practical effect. Use an actual wording example or a specific audible behavior when available. Do not repeat generic comments across all three parts.
+1. Give one clearly labelled **训练诊断分 / diagnostic practice estimate** as a holistic band or narrow range for that part when the available evidence supports it. It is not an arithmetic subtotal, an official per-part IELTS score, or an input to the whole-test calculation.
+2. With audible evidence, comment separately on all four criteria in this fixed order: Fluency & Coherence, Lexical Resource, Grammatical Range & Accuracy, Pronunciation. With transcript-only evidence, comment on the first three only and label Fluency & Coherence as transcript-supported.
+3. For each included criterion, give the diagnostic band, then concrete evidence from that part and its practical effect. Use an actual wording example or a specific audible behavior when available. Do not repeat generic comments across all three parts.
 4. End the part with **最大问题** and **下一步重点练什么**. Name one priority problem and one or two concrete actions that directly address it.
 
-Part-specific comments may be shorter when that section yielded little evidence, but all four criteria must still appear. Pronunciation comments require actual audible evidence. Transcript organisation can support limited coherence observations, but not claims about speech rate, hesitation, rhythm, stress, intonation, or intelligibility.
+Part-specific comments may be shorter when that section yielded little evidence. Pronunciation appears only when actual audible evidence supports it. In a transcript-only report, do not repeat a “Pronunciation: unable to assess” row under every part; the single overall limitation is enough. Transcript organisation can support limited coherence observations, but not claims about speech rate, hesitation, rhythm, stress, intonation, or intelligibility.
 
 ### 3. Expression upgrade bank
 
